@@ -1,0 +1,209 @@
+---
+layout: post
+status: publish
+published: true
+title: Meet 2014's Top 100 Community Managers on Twitter
+author:
+  display_name: Shelby LaCroix
+  login: shelby
+  email: shelby@getlittlebird.com
+  url: ''
+author_login: shelby
+author_email: shelby@getlittlebird.com
+wordpress_id: 1837
+wordpress_url: http://getlittlebird.com/?p=1837
+date: '2014-01-24 09:04:41 -0800'
+date_gmt: '2014-01-24 09:04:41 -0800'
+categories:
+- Top Insiders
+tags:
+- Community Managers
+comments:
+- id: 376
+  author: Marshall Kirkpatrick
+  author_email: marshall@getlittlebird.com
+  author_url: http://getlittlebird.com/
+  date: '2014-01-24 19:55:00 -0800'
+  date_gmt: '2014-01-24 19:55:00 -0800'
+  content: |-
+    Thanks Shelby and team for putting together this list and post.  Little Bird is a happy participant in each year's Community Management Appreciation Day because community management is a great practice to help social networks and social business be fulfilling for everyone.  It's hard, messy, too-often-thankless work but it really benefits everyone.  The network is a cyborg! Made possible not just by computers but by human hustle and communication too!  Thank you Community Managers of the World!
+
+
+    Special thanks to Little Bird's User Guide team @parakweets, @loveshelbyla and @burnstrong too!  You are all essential in helping Little Bird's customers big and small use the technology we're building to learn and do their business better.  We thank you for helping make it possible!
+- id: 377
+  author: David Spinks
+  author_email: dspinks5@gmail.com
+  author_url: http://www.whatspinksthinks.com/
+  date: '2014-01-24 20:24:00 -0800'
+  date_gmt: '2014-01-24 20:24:00 -0800'
+  content: |-
+    Thanks for the inclusion Little Bird team!
+
+
+    Connie's been a mentor of mine since I first joined the community industry. I remember she told me the same thing (=
+- id: 378
+  author: JPedde
+  author_email: jmpedde@gmail.com
+  author_url: http://www.jennpedde.com
+  date: '2014-01-24 21:15:00 -0800'
+  date_gmt: '2014-01-24 21:15:00 -0800'
+  content: 'This is awesome!!  Thanks so much for creating this list.   Last year
+    you showed a snapshot of the report.  Could you do the same this year?   (2013:
+    http://getlittlebird.com/wp-content/uploads/2013/01/communitymanagersbigreport.jpg)'
+- id: 379
+  author: Deb Ng
+  author_email: deborahng@gmail.com
+  author_url: http://kommein.com
+  date: '2014-01-24 21:53:00 -0800'
+  date_gmt: '2014-01-24 21:53:00 -0800'
+  content: Thank you so much for including me on your list. I'm honored to be listed
+    with so many great community professionals.
+- id: 380
+  author: elysa
+  author_email: elysa@genpink.com
+  author_url: http://www.genpink.com/
+  date: '2014-01-25 03:35:00 -0800'
+  date_gmt: '2014-01-25 03:35:00 -0800'
+  content: Interesting mix of folks on your list. Thanks for including me, tis quite
+    fab to be with so many greats. Looking forward to checking out some of the others
+    I wasn't already connected to.
+- id: 381
+  author: Meet 2014&prime;s Top 100 Community Managers on...
+  author_email: ''
+  author_url: http://www.scoop.it/t/start-up-stuff-by-missmiette/p/4014786639/2014/01/25/meet-2014-s-top-100-community-managers-on-twitter-little-bird
+  date: '2014-01-25 13:01:34 -0800'
+  date_gmt: '2014-01-25 13:01:34 -0800'
+  content: "[...] &nbsp; [...]"
+- id: 383
+  author: Community manager &#8211; my job description | katpickford
+  author_email: ''
+  author_url: http://katpickford.com/2014/01/26/community-manager-my-job-description/
+  date: '2014-01-26 03:20:49 -0800'
+  date_gmt: '2014-01-26 03:20:49 -0800'
+  content: "[...] So if there&#8217;s someone at your work who fits the above job
+    description, you might want to send them a message telling them what a great job
+    they do tomorrow.  Because the fourth Monday of every January (January 27th this
+    year) is Community Manager Appreciation Day (which was initiated by Jeremy Oweyang
+    in 2010).  If you&#8217;re on Twitter join the conversation using the official
+    hashtag #CMAD2014, and check out 2014&#8242;s top 100 Community Managers on Twitter,
+    compiled by Little Bird. [...]"
+- id: 384
+  author: Rosemary ONeill
+  author_email: rosemary@socialstrata.com
+  author_url: http://rhogroupee.com/
+  date: '2014-01-27 13:59:00 -0800'
+  date_gmt: '2014-01-27 13:59:00 -0800'
+  content: Thank you for including me in such a great group of people! I'll definitely
+    be checking everyone out too!
+- id: 385
+  author: Stacey Miller
+  author_email: sacevero@gmail.com
+  author_url: ''
+  date: '2014-01-27 14:55:00 -0800'
+  date_gmt: '2014-01-27 14:55:00 -0800'
+  content: 'Honored to be on this list - thank you! I love finding new peers to connect
+    with as well. Happy #CMAD!'
+- id: 386
+  author: Happy Community Manager Appreciation Day! Here&#8217;s what&#8217;s next.
+    | A Community Manager Walks Into A Bar...
+  author_email: ''
+  author_url: http://www.evanhamilton.com/community-manager-appreciation-day-opportunity/
+  date: '2014-01-27 16:46:18 -0800'
+  date_gmt: '2014-01-27 16:46:18 -0800'
+  content: "[...] Communities. Read the many amazing blogs that are available (like
+    this OPML file of the blogs of the 2014 top 100 community managers) . Don&#8217;t
+    take anything for [...]"
+- id: 387
+  author: nickcicero
+  author_email: ncicero0@gmail.com
+  author_url: ''
+  date: '2014-01-27 16:59:00 -0800'
+  date_gmt: '2014-01-27 16:59:00 -0800'
+  content: Such great company to be in, thanks so much for including me on your list!
+    Can't wait to connect with you all. Cheers! Here's to an awesome 2014!
+- id: 388
+  author: ShelbyLa
+  author_email: shelby@getlittlebird.com
+  author_url: ''
+  date: '2014-01-27 17:23:00 -0800'
+  date_gmt: '2014-01-27 17:23:00 -0800'
+  content: "On behalf of the Little Bird team, you're all welcome! However...you guys
+    and gals have been the hardworking ones who are deserving of credit and recognition
+    from your peers - so high-fives to all of YOU! Thanks again for representin'!
+    \n\nJPedde: You're right on - we did include a screenshot last year, but we've
+    decided to go a different direction this year, in hopes that people will interact
+    with the Community Managers Twitter list we've created! Check out https://twitter.com/getLittleBird/lists/top-100-cmgrs-2014
+    to view the whole list, and subscribe to keep all these folks on your radar! And
+    if you're suuuuuper curious, you can sign up for a free trial of Little Bird to
+    create your very own Community Managers report! Sign up at getlittlebird.com :)
+    Cheers!"
+- id: 390
+  author: Dayngr
+  author_email: dayngr@gmail.com
+  author_url: http://www.dayngrzone.com/
+  date: '2014-01-27 18:05:00 -0800'
+  date_gmt: '2014-01-27 18:05:00 -0800'
+  content: Love seeing all the great Community Managers!
+- id: 391
+  author: Dayngr
+  author_email: dayngr@gmail.com
+  author_url: http://www.dayngrzone.com/
+  date: '2014-01-27 18:07:00 -0800'
+  date_gmt: '2014-01-27 18:07:00 -0800'
+  content: You and the rest of my favorite peeps! Congrats!
+- id: 392
+  author: ryanmettee26
+  author_email: ryanmettee26@yahoo.com
+  author_url: ''
+  date: '2014-01-28 18:44:00 -0800'
+  date_gmt: '2014-01-28 18:44:00 -0800'
+  content: Great post, very cool technology.
+- id: 393
+  author: "#CMAD 2014 By The Numbers | Community Manager Appreciation Day"
+  author_email: ''
+  author_url: http://communitymanagerappreciationday.com/cmad-2014-numbers/
+  date: '2014-01-29 01:28:07 -0800'
+  date_gmt: '2014-01-29 01:28:07 -0800'
+  content: "[...] LittleBird: Top 100 Community Managers [...]"
+- id: 421
+  author: Meet 2014&prime;s Top 100 Community Managers on...
+  author_email: ''
+  author_url: http://www.scoop.it/t/mundosocial20/p/4017445613/2014/03/11/meet-2014-s-top-100-community-managers-on-twitter-little-bird
+  date: '2014-03-11 21:08:07 -0700'
+  date_gmt: '2014-03-11 21:08:07 -0700'
+  content: "[&#8230;] &nbsp; [&#8230;]"
+---
+<p dir="ltr">Community Manager Appreciation Day (CMAD) 2014 is upon us! This year, in celebration of #CMAD2014 (yes, that’s the official hashtag!) <a href="http://mycmgr.com/">My Community Manager</a> has teamed up with <a href="https://hootsuite.com/">Hootsuite</a> and a handful of <a href="http://communitymanagerappreciationday.com/meet-the-team/">other community-oriented companies</a> to celebrate the all-stars who keep our social networks running smoothly. They’ve collectively organized 24 hours of <a href="http://communitymanagerappreciationday.com/schedule/">live hangouts</a>, to begin on January 27, 2014 beginning at 00:00 EST (05:00 GMT). They’ll also be announcing 8 unique <a href="http://communitymanagerappreciationday.com/awards/">awards</a> to peer-nominated community managers across several different categories.</p>
+<p dir="ltr">Here at Little Bird, we think the inspiration behind CMAD is awesome! It’s all about practitioners celebrating their own—with results much like Little Bird finds by analyzing real human activities in context and the peer-to-peer relationships those activities build. For <a title="Meet the Top 1000 Community Managers on Twitter, Globally" href="http://getlittlebird.com/2013/01/meet-the-top-1000-community-managers-on-twitter-globally/">the second year in a row</a>, we decided to put our Little Bird discovery engine to good use for CMAD, to further uncover and recognize the most connected community managers of today.</p>
+<p dir="ltr">We used Little Bird to discover the widest possible online network of community managers, with the intention of sharing another lens through which we all can identify and celebrate this thriving community. We then trimmed our list to remove the companies and organizations, leaving just the humans who represent the top 100 community managers most followed by their peers. The result: 100 awesome people engaging communities on social media from all over the planet! We hope to see some insightful overlap between the community managers in this Little Bird report and CMAD’s nominees and award winners.</p>
+<table>
+<tbody>
+<tr>
+<td style="padding: 1em; width: 35%;"><!--HubSpot Call-to-Action Code --><br />
+<span class="hs-cta-wrapper" id="hs-cta-wrapper-bf8e100e-109e-4c83-ad31-548cc18cbc2e"><br />
+<span class="hs-cta-node hs-cta-bf8e100e-109e-4c83-ad31-548cc18cbc2e" id="hs-cta-bf8e100e-109e-4c83-ad31-548cc18cbc2e"><br />
+<!--[if lte IE 8]></p>
+<div id="hs-cta-ie-element"></div>
+<p><![endif]--><br />
+<a href="http://cta-redirect.hubspot.com/cta/redirect/209207/bf8e100e-109e-4c83-ad31-548cc18cbc2e"><img class="hs-cta-img" id="hs-cta-img-bf8e100e-109e-4c83-ad31-548cc18cbc2e" style="border-width: 0px;" alt="" src="https://no-cache.hubspot.com/cta/default/209207/bf8e100e-109e-4c83-ad31-548cc18cbc2e.png" /></a><br />
+</span><br />
+<script charset="utf-8" type="text/javascript" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript">// <![CDATA[<br />
+hbspt.cta.load(209207, 'bf8e100e-109e-4c83-ad31-548cc18cbc2e');<br />
+// ]]></script><br />
+</span><br />
+<!-- end HubSpot Call-to-Action Code --></td>
+<td style="padding: 1em; width: 65%;">
+<h4>Want to create and explore your own Little Bird report on community managers or any other topic?</h4>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr">Little Bird’s influence ratings are based solely on the level of interconnection that topical insiders have with their peers, rather than an abstract measure of intrinsic value. These insiders are those who have built up sufficient peer recognition through their own personal engagement on social media with the other insiders in their community.</p>
+<p>[caption id="attachment_1861" align="aligncenter" width="600"]<a href="http://getlittlebird.com/wp-content/uploads/2014/01/Visualization__Community_managers_-_Little_Bird-2.png"><img class=" wp-image-1861     " title="Little Bird Community Managers Visualization" alt="Little Bird Community Managers Visualization" src="http://getlittlebird.com/wp-content/uploads/2014/01/Visualization__Community_managers_-_Little_Bird-2.png" width="600" height="242" /></a> <b>Little Bird Community Managers Network Visualization</b>[/caption]</p>
+<p dir="ltr">We also recognize that many community managers devote a lot of their online energies to brand accounts, and their personal identities might not always benefit from the same attention. To those who were not represented on our report: We encourage everyone to give some love to your own social presence online. With all that you have to teach us, we’d all love to hear from you personally, too!</p>
+<p dir="ltr">There’s much knowledge to be gleaned from these savvy folks on the front lines of social media marketing and relationship management. Want to take in the CMAD community for yourself? Check out the <a href="http://communitymanagerappreciationday.com/about-cmad/">Community Managers Appreciation Day website</a> to learn about <a href="http://communitymanagerappreciationday.com/events/">events</a> being hosted around the world in celebration of this day.</p>
+<p dir="ltr">Congratulations to Community Managers everywhere for your efforts and hard work—We salute you!</p>
+<h4 dir="ltr">Little Bird's <a title="Visit Twitter to see list members &amp; their posts" href="https://twitter.com/getLittleBird/lists/top-100-cmgrs-2014" target="_blank">Top 100 2014 Community Managers</a></h4>
+<p>Visit our Twitter list to browse all 100 top community managers, read the stream of their Tweets below, and download a feed bundle (OPML file) of the <a title="Little Bird Top 2014 Community Managers Blog Bundle" href="http://drive.google.com/file/d/0B1S0qQl5b-1aZGRwWXNtR0xyeWc/edit?usp=sharing" target="_blank">70 blog feeds</a> we found related to these 100 community managers and import it into your favorite feed reader.</p>
+<p><a class="twitter-timeline" href="https://twitter.com/getLittleBird/top-100-cmgrs-2014" data-widget-id="426641862141550593">Tweets from https://twitter.com/getLittleBird/top-100-cmgrs-2014</a></p>
+<p>&nbsp;</p>

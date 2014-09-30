@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Little Bird Update: 14 Mar 2014'
+author:
+  display_name: Danish Aziz
+  login: danish
+  email: danish@getlittlebird.com
+  url: https://plus.google.com/u/0/107823924787457243444/posts
+author_login: danish
+author_email: danish@getlittlebird.com
+author_url: https://plus.google.com/u/0/107823924787457243444/posts
+wordpress_id: 2103
+wordpress_url: http://getlittlebird.com/?p=2103
+date: '2014-03-14 21:17:55 -0700'
+date_gmt: '2014-03-14 21:17:55 -0700'
+categories:
+- New Features
+tags:
+- Updates
+comments:
+- id: 422
+  author: Marshall Kirkpatrick
+  author_email: marshall@getlittlebird.com
+  author_url: http://getlittlebird.com/
+  date: '2014-03-14 21:54:00 -0700'
+  date_gmt: '2014-03-14 21:54:00 -0700'
+  content: Good stuff, thanks for the update Danish - and thanks to the Dev team for
+    making this happen.  This is one of my favorite examples of how Little Bird isn't
+    just about finding a list of influencers - it uses that list to surface all kinds
+    of other valuable information as well!
+- id: 431
+  author: Google
+  author_email: ''
+  author_url: http://www.google.com/pnnbjrpq
+  date: '2014-03-27 09:22:04 -0700'
+  date_gmt: '2014-03-27 09:22:04 -0700'
+  content: "<strong>Google</strong>\n\nWe like to honor a lot of other world-wide-web
+    internet sites on the net, even though they aren\x92t linked to us, by linking
+    to them. Underneath are some webpages worth checking out."
+---
+<h3>See Any User's Standing in a Topical Community</h3>
+<p>Our customers have been asking for easier ways to quickly see how connected any person or company is within a specific topical community. For example, you could enter the Twitter username of a potential event speaker, sales prospect, hiring candidate, or acquisition target to quickly see their standing in a community central to your business. Today we added an additional feature—<strong>Standing</strong>—to show you exactly that information, even if that user isn't included in the report.</p>
+<p>You'll see this new Standing feature at the top of Little Bird's existing <strong>Discover Connections</strong> view, which gives you a current, detailed look at any Twitter user's stature, savvy, and connections in the community of topical Insiders delivered by a Little Bird report. This Standing feature adds new, summary information to the existing details already included in Discover Connections, like topic Insiders identified as <strong>Missed Opportunities</strong>, <strong>Not Yet Converted</strong>, <strong>Most Recent Insiders</strong>, <strong>First Insiders</strong>, and <strong>Most Recent Following</strong>.</p>
+<p style="text-align: center;"><a href="http://getlittlebird.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-13-at-5.22.49-PM.png"><img class="aligncenter  wp-image-2150" alt="Screen Shot 2014-03-13 at 5.22.49 PM" src="http://getlittlebird.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-13-at-5.22.49-PM.png" width="600" /></a></p>
+<h3 style="text-align: left;">Additional Updates</h3>
+<ul>
+<li>Our <strong>Share &amp; Engage</strong> view in every report now updates with new and trending content every thirty minutes.</li>
+<li>Spreadsheet <strong>Exports</strong> now contain structured location data for easier sorting by continent, country, region, and sub-region.</li>
+</ul>

@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Home
+author:
+  display_name: zeiber
+  login: zeiber
+  email: jason@getlittlebird.com
+  url: ''
+author_login: zeiber
+author_email: jason@getlittlebird.com
+excerpt: Home page
+wordpress_id: 2272
+wordpress_url: http://54.188.213.43/?p=2272
+date: '2014-07-10 21:44:01 -0700'
+date_gmt: '2014-07-10 21:44:01 -0700'
+categories: []
+tags: []
+comments: []
+---
+

@@ -1,0 +1,103 @@
+/**
+ * Mobile media queries for parallax sections
+ */
+
+
+@media only screen and (min-width: 482px) and (max-width: 767px) {
+
+
+}
+
+@media only screen and (max-width: 481px) {
+
+
+}
+
+/* IPAD Portrait */
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) { 
+
+	.parallax{
+		background-size:130% auto !important;
+		-webkit-background-size:130% auto !important;
+		background-attachment:scroll !important;
+	}
+
+	/*PARALLAX HEADER CSS*/
+
+	section#header-option{
+		-webkit-background-size:250% auto !important;
+	}
+
+	/*Video Header Cover Image*/
+	div#tubular-cover-image{
+		-webkit-background-size:250% auto !important;
+	}
+
+}
+
+/* IPAD Landscape */
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+	
+	.parallax{
+		background-size:100% auto !important;
+		-webkit-background-size:100% auto !important;
+		background-attachment:scroll !important;
+	}
+
+	/*PARALLAX HEADER CSS*/
+
+	section#header-option{
+		-webkit-background-size:160% auto !important;
+	}
+
+	/*Video Header Cover Image*/
+	div#tubular-cover-image{
+		-webkit-background-size:160% auto !important;
+	}
+
+}
+
+/* Iphone Portrait */
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) { 
+	.parallax{
+		background-size:320% auto !important;
+		-webkit-background-size:320% auto !important;
+		background-attachment:scroll !important;
+	}
+
+	/*PARALLAX HEADER CSS*/
+
+	section#header-option{
+		-webkit-background-size:210% auto;
+	}
+
+	/*Video Header Cover Image*/
+	div#tubular-cover-image{
+		-webkit-background-size:160% auto;
+	}
+}
+
+/* Iphone Lanscape */
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) { 
+	
+	.parallax{
+		background-size:210% auto !important;
+		-webkit-background-size:210% auto !important;
+		background-attachment:scroll !important;
+	}
+
+	/*PARALLAX HEADER CSS*/
+
+	section#header-option{
+		-webkit-background-size:160% auto;
+	}
+
+	/*Video Header Cover Image*/
+	div#tubular-cover-image{
+		-webkit-background-size:160% auto;
+	}
+}

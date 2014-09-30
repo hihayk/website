@@ -1,0 +1,108 @@
+.button {
+    display: block;
+    min-width: 120px;
+    max-width: 180px;
+    
+    padding: ($spacing-half * 1.5)
+             ($spacing-half * 1.5)
+             ($spacing-half * 1.25)
+             ($spacing-half * 1.5);
+    
+    color: darken($lb-green-alt, 10%);
+    background-color: $lb-green;
+    
+    border: 1px solid $lb-green-alt;
+    @include border-radius(5px);
+    
+    text-decoration: none;
+    text-align: center;
+    
+    font-family: Din;
+    font-size: 20px;
+    font-weight: 500;
+    
+    cursor: pointer;
+    
+    &:hover { color: $lb-dark-alt; background-color: darken($lb-green, 10%); text-decoration: none;  }
+    
+    & > * {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    
+    path { fill: darken($lb-green-alt, 10%); }
+    &, * { @include bbox; }
+}
+
+.button-input {
+    padding: 6px ($spacing-half * 1.5) 4px ($spacing-half * 1.5);
+}
+
+
+.button-nomin { display: inline; }
+.button-wide { min-width: 180px; max-width: 240px; }
+.button-inline { display: inline-block; vertical-align: bottom; }
+
+.button-floatright { float: right; }
+.button-floatleft { float: left; }
+
+.button-margin-top { margin-top: $spacing; }
+
+.button-icon { margin-top: -4px; }
+
+
+
+.button-cta {
+    color: $lb-yellow;
+    background-color: $lb-orange;
+    border-color: $lb-orange-alt;
+    
+    &:hover { color: $lb-yellow; background-color: darken($lb-orange, 8%); }
+    path { fill: $lb-yellow; }
+}
+
+.button-passive { 
+    color: $lb-dark;
+    background-color: lighten($lb-light, 10%);
+    border-color: lighten($lb-light, 0%);
+    
+    &:hover { color: $lb-dark-alt; background-color: $lb-light; }
+    path { fill: $lb-dark; }
+}
+
+.button-disabled {
+    pointer-events: none;
+    
+    color: lighten($lb-dark, 30%);
+    background-color: $lb-light-alt;
+    border-color: lighten($lb-dark, 35%);
+}
+
+.button-small {
+    font-size: 15px;
+    padding: ($spacing-half * 1)
+             ($spacing-half * 2)
+             ($spacing-half * 0.85)
+             ($spacing-half * 2);
+}
+
+.button-large {
+    @extend .button-wide;
+    font-size: 24px;
+}
+
+
+
+// ultra special buttons
+
+.button-back {
+    font-size: 12px;
+    font-family: arial, sans-serif;
+    
+    max-width: 90px;
+    min-width: 0;
+    
+    margin-bottom: 4px;
+    
+    padding: 3px $spacing 2px $spacing;
+}

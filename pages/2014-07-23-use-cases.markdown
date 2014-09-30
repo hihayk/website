@@ -1,0 +1,52 @@
+---
+layout: page-sections
+status: publish
+published: true
+title: Use Cases
+author:
+  display_name: zeiber
+  login: zeiber
+  email: jason@getlittlebird.com
+  url: ''
+author_login: zeiber
+author_email: jason@getlittlebird.com
+wordpress_id: 2630
+wordpress_url: http://54.188.213.43/?post_type=page-sections&#038;p=2630
+date: '2014-07-23 04:00:04 -0700'
+date_gmt: '2014-07-23 04:00:04 -0700'
+categories: []
+tags: []
+comments: []
+---
+<p><!--<br />
+[title_bar sub_heading="" heading="Little Bird powers social marketing and sales"]<br />
+--></p>
+<h1><span style="color: #666;">Focus resources on your</span> best opportunities</h1>
+<p>Modern marketing and sales teams understand that the internet, big data and social networks have changed the rules of the game. Little Bird helps you gain an unfair competitive advantage.</p>
+<p>[one_fourth]<br />
+[nzs_service title="Influence Marketing" icon_url=""]<br />
+Buyers don't trust brands—they trust people they know and respect. Use Little Bird to quickly identify the insiders who influence your market, from perception to purchase.<br />
+[/nzs_service]<br />
+[/one_fourth]</p>
+<p>[one_fourth]<br />
+[nzs_service title="Content Marketing" icon_url=""]<br />
+From creating demand to closing deals, content is currency in today's marketing and sales. With Little Bird you can curate, create and distribute the best content early.<br />
+[/nzs_service]<br />
+[/one_fourth]<br />
+[one_fourth]</p>
+<p>[nzs_service title="Social Sales" icon_url=""]<br />
+The relationship between buyers and sellers has fundamentally changed. Little Bird helps you expand your reach, connect with prospects and build your own influence faster.<br />
+[/nzs_service]<br />
+[/one_fourth]</p>
+<p>[one_fourth]<br />
+[nzs_service title="Market Intelligence" icon_url=""]<br />
+New market trends and competitive threats are often hidden within topical social networks and niche communities. Little Bird’s software and API illuminate the opportunities.<br />
+[/nzs_service]<br />
+[/one_fourth]</p>
+<p><!--<br />
+[one_fourth]<br />
+[nzs_service title="Advocacy" icon_url=""]<br />
+Identify employees and customers who will share and engage on your behalf.<br />
+[/nzs_service]<br />
+[/one_fourth]<br />
+--></p>

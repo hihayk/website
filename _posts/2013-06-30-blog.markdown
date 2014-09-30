@@ -1,0 +1,26 @@
+---
+layout: page-sections
+status: publish
+published: true
+title: Blog
+author:
+  display_name: zeiber
+  login: zeiber
+  email: jason@getlittlebird.com
+  url: ''
+author_login: zeiber
+author_email: jason@getlittlebird.com
+wordpress_id: 6
+wordpress_url: http://themes.webcreations907.com/ninezeroseven/demo-data/?post_type=page-sections&#038;p=6
+date: '2013-06-30 02:40:16 -0700'
+date_gmt: '2013-06-30 02:40:16 -0700'
+categories: []
+tags: []
+comments: []
+---
+<p><!--<br />
+[title_bar sub_heading="" heading="Latest Posts from Little Bird"]<br />
+--></p>
+<h1>Latest Posts from Little Bird</h1>
+<p>&nbsp;</p>
+<p>[blog]</p>

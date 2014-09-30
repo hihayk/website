@@ -1,0 +1,79 @@
+
+#header-option{
+	height:100% !important;
+	width: 100%;
+	position: relative;
+	-moz-box-shadow: inset 0 0px 4px 1px #2b2b2b;
+	-webkit-box-shadow: inset 0 0px 4px 1px #2b2b2b;
+	box-shadow: inset 0 0px 4px 1px #2b2b2b;
+	overflow: hidden;
+}
+
+.headerContent .message{
+	padding-top: 120px; /*ADDED*/
+}
+.entry .message{
+	padding-top: 120px;
+}
+.entry .message p{
+	background:url('../img/theme/pbg.png') repeat;
+	display: inline-block;
+	border-radius: 4px;
+	padding:4px 7px;
+}
+.entry .message h2{
+	font-size: 100px;
+	color:#fff;
+	margin: 20px 0 50px 0;
+	padding:3px 0 6px 0; /*added2*/
+	border-top:1px dashed #fff;
+	border-bottom:1px dashed #fff;
+	display: inline-block;
+	line-height: 100px;
+}
+
+.fullheader .social{
+	display: block;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	bottom: 120px;
+}
+.fullheader .social a{
+	display:inline-block;
+	margin-right:2px;
+
+}
+
+.headerContent{
+	padding-top:120px;
+	padding-bottom:60px;
+	border-bottom: 1px solid #000;
+	min-height: 380px;
+	position: relative;
+	z-index: 1;
+
+}
+
+.fullheader h2{
+	text-shadow:1px 1px 1px #000;
+	font-weight: 700;
+	color:#91e5fa;
+	font-size: 68px;
+	line-height: 72px;
+	margin:18px 0 15px 0;
+}
+
+.fullheader h2 span{
+	text-shadow:1px 1px 1px #303030;
+	font-family: "Oswald", "Times New Roman", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	line-height: 19px;
+	font-size: 19px;
+	color:#efefef;
+	display: block;
+}
+
+.fullheader h2 span strong{
+	color:#cc6633;
+}

@@ -1,0 +1,22 @@
+---
+layout: page-sections
+status: publish
+published: true
+title: Gallery
+author:
+  display_name: zeiber
+  login: zeiber
+  email: jason@getlittlebird.com
+  url: ''
+author_login: zeiber
+author_email: jason@getlittlebird.com
+wordpress_id: 2344
+wordpress_url: http://themes.webcreations907.com/ninezeroseven/demo-data/?post_type=page-sections&amp;p=7
+date: '2013-06-30 02:40:57 -0700'
+date_gmt: '2013-06-30 02:40:57 -0700'
+categories: []
+tags: []
+comments: []
+---
+<p>[title_bar sub_heading="Take A Peek" heading="Gallery"]</p>
+<p>[portfolio]</p>

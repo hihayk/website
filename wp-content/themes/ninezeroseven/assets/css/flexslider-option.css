@@ -1,0 +1,79 @@
+/* MAIN SLIDER
+============================== */
+
+.headerContent{
+	background:url('../img/theme/dark_wall.png') #000;
+}
+
+.headerContent{
+	padding-top:120px;
+	padding-bottom:60px;
+	border-bottom: 1px solid #000;
+	position: relative;
+	z-index: 1;
+	color:#d6d6d7;
+
+}
+
+.flex-content{
+	background:url('../img/theme/pbg.png') repeat;
+	line-height: 1.3em;
+	position: absolute;
+	width: 100%;
+	bottom: 5px;
+	padding: 10px 10px 0px 10px;
+
+}
+.flex-content h4{
+	color:#fff;
+}
+.mainSlider .flex-viewport{
+	border:1px solid #e8e8e8;
+}
+.mainSlider{
+	background-color:#f2f2f2;
+	position: relative;
+	box-shadow: 0px 0px 5px #000;
+	padding:8px;
+	height: auto;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	margin: 20px 12px 4px 12px;
+}
+.slides li{
+	position: relative;
+}
+.slides ul,.slides li{
+
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+}
+
+.mainSlider .slides > li, .post-slider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+
+.headerContent .flex-control-nav{
+	left:0;
+}
+.headerContent .flex-control-nav li{
+	margin: 0;
+}
+
+.headerContent .flex-control-paging li a{
+	margin:0;
+	width:23px;
+	height:23px;
+	box-shadow: none;
+	border-radius: none;
+	background:url('../img/theme/slider-bullets.png') left top no-repeat;
+}
+
+.headerContent .flex-control-paging li a.flex-active, .headerContent .flex-control-paging li a:hover {
+	width:23px;
+	height:23px;
+	box-shadow: none;
+	border-radius: none;
+	margin:0 0 0 0;
+	background:url('../img/theme/slider-bullets.png') right top no-repeat;
+}

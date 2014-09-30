@@ -1,0 +1,84 @@
+---
+layout: page-sections
+status: publish
+published: true
+title: News
+author:
+  display_name: zeiber
+  login: zeiber
+  email: jason@getlittlebird.com
+  url: ''
+author_login: zeiber
+author_email: jason@getlittlebird.com
+wordpress_id: 2586
+wordpress_url: http://54.188.213.43/?post_type=page-sections&#038;p=2586
+date: '2014-07-22 03:39:03 -0700'
+date_gmt: '2014-07-22 03:39:03 -0700'
+categories: []
+tags: []
+comments: []
+---
+<h1>Little Bird in the News</h1>
+<div id="recent-articles">
+<article>
+<div class="article-row rc4">
+<div class="article-img rc4"> <img alt="Bizjournals" src="//s3.amazonaws.com/totem_production/publications/180/wide/bizjournals.jpg?1342665377" /> </div>
+<div class="article-title"> <a href="http://www.bizjournals.com/portland/blog/2014/09/portland-s-little-bird-gaining-traction-and.html?page=all" target="_blank">Portland’s Little Bird gaining traction and building its sales engine</a></p>
+<div class="article-byline">
+          <time datetime="2014-09-05">Sep 5, 2014</time><br />
+          — Malia Spencer </div>
+</p></div>
+</p></div>
+</article>
+<article>
+<div class="article-row rc4">
+<div class="article-img rc4"> <img alt="Bizjournals" src="//s3.amazonaws.com/totem_production/publications/180/wide/bizjournals.jpg?1342665377" /> </div>
+<div class="article-title"> <a href="http://www.bizjournals.com/portland/blog/real-estate-daily/2014/09/how-portlands-position-as-a-tech-magnet-is.html" target="_blank">How Portland's position as a tech magnet is changing how leases get done</a></p>
+<div class="article-byline">
+          <time datetime="2014-09-05">Sep 5, 2014</time><br />
+          — Erik Siemers</div>
+</p></div>
+</p></div>
+</article>
+<article>
+<div class="article-row rc4">
+<div class="article-img rc4"> <img alt="Bizjournals" src="//s3.amazonaws.com/totem_production/publications/180/wide/bizjournals.jpg?1342665377" /> </div>
+<div class="article-title"> <a href="http://www.bizjournals.com/portland/morning_call/2014/09/portlands-little-bird-moves-into-a-bigger-nest.html" target="_blank">Portland's Little Bird moves into a bigger nest</a></p>
+<div class="article-byline">
+          <time datetime="2014-09-04">Sep 4, 2014</time><br />
+          — Malia Spencer </div>
+</p></div>
+</p></div>
+</article>
+<article class="desktop-only">
+<div class="article-row rc4">
+<div class="article-img rc4"> <img alt="Bizjournals" src="//s3.amazonaws.com/totem_production/publications/180/wide/bizjournals.jpg?1342665377" /> </div>
+<div class="article-title"> <a href="http://www.bizjournals.com/portland/blog/2014/06/portlands-little-bird-puts-fundraising-to-work.html?ana=twt" rel="nofollow" target="_blank">Portland's Little Bird puts fundraising to work with another key hire</a></p>
+<div class="article-byline">
+          <time datetime="2014-04-24">Jun 19, 2014</time><br />
+          — Malia Spencer </div>
+</p></div>
+</p></div>
+</article>
+<article class="desktop-only">
+<div class="article-row rc4">
+<div class="article-img"> <img alt="Oregonlive" src="//s3.amazonaws.com/totem_production/publications/1820/wide/oregonlive.jpg?1363894912" /> </div>
+<div class="article-title"> <a href="http://www.oregonlive.com/silicon-forest/index.ssf/2014/06/little_bird_adds_portland_star.html" rel="nofollow" target="_blank">Little Bird adds Portland startup vet Jessica Rickson as sales leader</a></p>
+<div class="article-byline">
+          <time datetime="2014-04-24">Jun 19, 2014</time><br />
+          — Malia Spencer </div>
+</p></div>
+</p></div>
+</article>
+<article class="desktop-only">
+<div class="article-row rc4">
+<div class="article-img"> <img alt="Bizjournals" src="//s3.amazonaws.com/totem_production/publications/180/wide/bizjournals.jpg?1342665377" /> </div>
+<div class="article-title"> <a href="http://www.bizjournals.com/portland/blog/2014/04/little-bird-taps-portlands-creative-community-for.html" rel="nofollow" target="_blank">Little Bird taps Portland&#x27;s creative community for a key hire</a></p>
+<div class="article-byline">
+          <time datetime="2014-04-24">Apr 24, 2014</time><br />
+          — Malia Spencer </div>
+</p></div>
+</p></div>
+</article>
+<div class="clearfix"></div>
+<p><a class="article-morelink" href="/little-bird-in-the-news/">More Articles »</a></p>

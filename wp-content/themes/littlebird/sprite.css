@@ -1,0 +1,209 @@
+.detail-active {
+		background: url(sprite.png) -127px -340px no-repeat;
+		display: inline-block;
+		width: 79px;
+		height: 111px;
+}
+
+.detail-compare {
+		background: url(sprite.png) -211px -340px no-repeat;
+		display: inline-block;
+		width: 99px;
+		height: 108px;
+}
+
+.detail-emerging {
+		background: url(sprite.png) -347px -56px no-repeat;
+		display: inline-block;
+		width: 146px;
+		height: 77px;
+}
+
+.detail-topic {
+		background: url(sprite.png) 0px -340px no-repeat;
+		display: inline-block;
+		width: 122px;
+		height: 121px;
+}
+
+.dropdown-compare {
+		background: url(sprite.png) -268px -95px no-repeat;
+		display: inline-block;
+		width: 24px;
+		height: 26px;
+}
+
+.dropdown-reading {
+		background: url(sprite.png) -347px -288px no-repeat;
+		display: inline-block;
+		width: 29px;
+		height: 22px;
+}
+
+.misc-logo-lines {
+		background: url(sprite.png) -347px -240px no-repeat;
+		display: inline-block;
+		width: 52px;
+		height: 43px;
+}
+
+.nav-blog {
+		background: url(sprite.png) -470px -288px no-repeat;
+		display: inline-block;
+		width: 16px;
+		height: 16px;
+}
+
+.nav-blog-on {
+		background: url(sprite.png) -449px -288px no-repeat;
+		display: inline-block;
+		width: 16px;
+		height: 16px;
+}
+
+.nav-logout {
+		background: url(sprite.png) -396px -288px no-repeat;
+		display: inline-block;
+		width: 10px;
+		height: 17px;
+}
+
+.nav-logout-on {
+		background: url(sprite.png) -381px -288px no-repeat;
+		display: inline-block;
+		width: 10px;
+		height: 17px;
+}
+
+.nav-signup {
+		background: url(sprite.png) -498px -109px no-repeat;
+		display: inline-block;
+		width: 22px;
+		height: 18px;
+}
+
+.nav-signup-on {
+		background: url(sprite.png) -498px -86px no-repeat;
+		display: inline-block;
+		width: 22px;
+		height: 18px;
+}
+
+.nav-tour {
+		background: url(sprite.png) -430px -288px no-repeat;
+		display: inline-block;
+		width: 14px;
+		height: 17px;
+}
+
+.nav-tour-on {
+		background: url(sprite.png) -411px -288px no-repeat;
+		display: inline-block;
+		width: 14px;
+		height: 17px;
+}
+
+.press-adweek {
+		background: url(sprite.png) -347px -189px no-repeat;
+		display: inline-block;
+		width: 125px;
+		height: 46px;
+}
+
+.press-adweek-on {
+		background: url(sprite.png) -347px -138px no-repeat;
+		display: inline-block;
+		width: 125px;
+		height: 46px;
+}
+
+.press-fastco {
+		background: url(sprite.png) 0px -140px no-repeat;
+		display: inline-block;
+		width: 263px;
+		height: 39px;
+}
+
+.press-fastco-on {
+		background: url(sprite.png) 0px -95px no-repeat;
+		display: inline-block;
+		width: 263px;
+		height: 40px;
+}
+
+.press-wired {
+		background: url(sprite.png) 0px -234px no-repeat;
+		display: inline-block;
+		width: 224px;
+		height: 45px;
+}
+
+.press-wired-on {
+		background: url(sprite.png) 0px -184px no-repeat;
+		display: inline-block;
+		width: 224px;
+		height: 45px;
+}
+
+.press-wsj {
+		background: url(sprite.png) -347px 0px no-repeat;
+		display: inline-block;
+		width: 174px;
+		height: 51px;
+}
+
+.press-wsj-on {
+		background: url(sprite.png) 0px -284px no-repeat;
+		display: inline-block;
+		width: 174px;
+		height: 51px;
+}
+
+.site-logo {
+		background: url(sprite.png) 0px 0px no-repeat;
+		display: inline-block;
+		width: 342px;
+		height: 90px;
+}
+
+.social-facebook {
+		background: url(sprite.png) -477px -138px no-repeat;
+		display: inline-block;
+		width: 32px;
+		height: 32px;
+}
+
+.social-pinterest {
+		background: url(sprite.png) -477px -189px no-repeat;
+		display: inline-block;
+		width: 32px;
+		height: 32px;
+}
+
+.social-rss {
+		background: url(sprite.png) -404px -240px no-repeat;
+		display: inline-block;
+		width: 32px;
+		height: 32px;
+}
+
+.social-twitter {
+		background: url(sprite.png) -441px -240px no-repeat;
+		display: inline-block;
+		width: 32px;
+		height: 32px;
+}
+
+.social-vimeo {
+		background: url(sprite.png) -478px -240px no-repeat;
+		display: inline-block;
+		width: 32px;
+		height: 32px;
+}
+
+.title-report {
+		background: url(sprite.png) -498px -56px no-repeat;
+		display: inline-block;
+		width: 20px;
+		height: 25px;
+}

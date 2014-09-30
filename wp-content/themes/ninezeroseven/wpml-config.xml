@@ -1,0 +1,26 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_ninezeroseven">
+<key name="nzs_youtube_heading_text" />
+<key name="nzs_youtube_description_text" />
+<key name="nzs_vimeo_heading_text" />
+<key name="nzs_vimeo_description_text" />
+<key name="nzs_parallax_heading_text" />
+<key name="nzs_parallax_description_text" />
+<key name="nzs_full_screen_slider">
+<key name="1">
+<key name="title" />
+<key name="description" />
+</key>
+</key>
+<key name="nzs_flex_slider">
+<key name="1">
+<key name="title" />
+<key name="description" />
+</key>
+</key>
+<key name="nzs_custom_header_code" />
+<key name="nzs_footer_text" />
+</key>
+</admin-texts>
+</wpml-config>

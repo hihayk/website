@@ -1,0 +1,1843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Social Deux\n"
+"POT-Creation-Date: 2014-08-01 03:12+0100\n"
+"PO-Revision-Date: 2014-08-01 03:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: Ultimate Social Deux <hello@ultimate-wp-com>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-ultimate-social-deux-admin.php:132
+msgid "Basic Settings"
+msgstr "Configuración Básica"
+
+#: ../admin/class-ultimate-social-deux-admin.php:136
+msgid "Style Settings"
+msgstr "Configuración de Estilos"
+
+#: ../admin/class-ultimate-social-deux-admin.php:140
+msgid "Mail Settings"
+msgstr "Configuración de e-mail"
+
+#: ../admin/class-ultimate-social-deux-admin.php:144
+msgid "Placement Settings"
+msgstr "Configuración de Ubicación"
+
+#: ../admin/class-ultimate-social-deux-admin.php:148
+msgid "Fan Count Settings"
+msgstr "Configuración de Contador de Fans"
+
+#: ../admin/class-ultimate-social-deux-admin.php:152
+msgid "Advanced Settings"
+msgstr "Configuración Avanzada"
+
+#: ../admin/class-ultimate-social-deux-admin.php:156
+msgid "License Settings"
+msgstr "Configuración de Licencia"
+
+#: ../admin/class-ultimate-social-deux-admin.php:170
+#: ../admin/class-ultimate-social-deux-admin.php:201
+#: ../admin/class-ultimate-social-deux-admin.php:338
+#: ../admin/class-ultimate-social-deux-admin.php:339
+#: ../admin/class-ultimate-social-deux-admin.php:1790
+#: ../admin/class-ultimate-social-deux-admin.php:1795
+#: ../admin/class-ultimate-social-deux-admin.php:2018
+#: ../admin/class-ultimate-social-deux-admin.php:2025
+#: ../public/class-ultimate-social-deux-widget.php:43
+#: ../public/class-ultimate-social-deux-widget.php:243
+#: ../public/class-ultimate-social-deux-widget.php:247
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/class-ultimate-social-deux-admin.php:171
+#: ../admin/class-ultimate-social-deux-admin.php:345
+#: ../admin/class-ultimate-social-deux-admin.php:346
+#: ../admin/class-ultimate-social-deux-admin.php:1802
+#: ../admin/class-ultimate-social-deux-admin.php:1807
+#: ../admin/class-ultimate-social-deux-admin.php:1813
+#: ../admin/class-ultimate-social-deux-admin.php:1819
+#: ../admin/class-ultimate-social-deux-admin.php:2032
+#: ../admin/class-ultimate-social-deux-admin.php:2039
+#: ../public/class-ultimate-social-deux-widget.php:47
+#: ../public/class-ultimate-social-deux-widget.php:251
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/class-ultimate-social-deux-admin.php:172
+#: ../admin/class-ultimate-social-deux-admin.php:352
+#: ../admin/class-ultimate-social-deux-admin.php:353
+#: ../admin/class-ultimate-social-deux-admin.php:1825
+#: ../admin/class-ultimate-social-deux-admin.php:1830
+#: ../admin/class-ultimate-social-deux-admin.php:1836
+#: ../admin/class-ultimate-social-deux-admin.php:2046
+#: ../admin/class-ultimate-social-deux-admin.php:2053
+#: ../public/class-ultimate-social-deux-widget.php:51
+#: ../public/class-ultimate-social-deux-widget.php:255
+#: ../public/class-ultimate-social-deux-widget.php:259
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../admin/class-ultimate-social-deux-admin.php:173
+#: ../admin/class-ultimate-social-deux-admin.php:359
+#: ../admin/class-ultimate-social-deux-admin.php:360
+#: ../admin/class-ultimate-social-deux-admin.php:1944
+#: ../admin/class-ultimate-social-deux-admin.php:1949
+#: ../admin/class-ultimate-social-deux-admin.php:2102
+#: ../admin/class-ultimate-social-deux-admin.php:2109
+#: ../public/class-ultimate-social-deux-widget.php:55
+#: ../public/class-ultimate-social-deux-widget.php:263
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../admin/class-ultimate-social-deux-admin.php:174
+#: ../admin/class-ultimate-social-deux-admin.php:366
+#: ../admin/class-ultimate-social-deux-admin.php:367
+#: ../admin/class-ultimate-social-deux-admin.php:2088
+#: ../admin/class-ultimate-social-deux-admin.php:2095
+#: ../public/class-ultimate-social-deux-widget.php:267
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../admin/class-ultimate-social-deux-admin.php:175
+#: ../admin/class-ultimate-social-deux-admin.php:380
+#: ../admin/class-ultimate-social-deux-admin.php:381
+#: ../admin/class-ultimate-social-deux-admin.php:2074
+#: ../admin/class-ultimate-social-deux-admin.php:2081
+#: ../public/class-ultimate-social-deux-widget.php:271
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: ../admin/class-ultimate-social-deux-admin.php:176
+#: ../admin/class-ultimate-social-deux-admin.php:373
+#: ../admin/class-ultimate-social-deux-admin.php:374
+#: ../admin/class-ultimate-social-deux-admin.php:2060
+#: ../admin/class-ultimate-social-deux-admin.php:2067
+#: ../public/class-ultimate-social-deux-widget.php:275
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../admin/class-ultimate-social-deux-admin.php:177
+#: ../admin/class-ultimate-social-deux-admin.php:387
+#: ../admin/class-ultimate-social-deux-admin.php:388
+#: ../admin/class-ultimate-social-deux-admin.php:2116
+#: ../admin/class-ultimate-social-deux-admin.php:2123
+#: ../public/class-ultimate-social-deux-widget.php:279
+msgid "Buffer"
+msgstr "Buffer"
+
+#: ../admin/class-ultimate-social-deux-admin.php:178
+#: ../admin/class-ultimate-social-deux-admin.php:394
+#: ../admin/class-ultimate-social-deux-admin.php:395
+#: ../admin/class-ultimate-social-deux-admin.php:2130
+#: ../admin/class-ultimate-social-deux-admin.php:2137
+#: ../public/class-ultimate-social-deux-widget.php:283
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../admin/class-ultimate-social-deux-admin.php:179
+#: ../admin/class-ultimate-social-deux-admin.php:195
+#: ../admin/class-ultimate-social-deux-admin.php:401
+#: ../admin/class-ultimate-social-deux-admin.php:402
+#: ../admin/class-ultimate-social-deux-admin.php:1932
+#: ../admin/class-ultimate-social-deux-admin.php:1938
+#: ../admin/class-ultimate-social-deux-admin.php:2144
+#: ../admin/class-ultimate-social-deux-admin.php:2151
+#: ../public/class-ultimate-social-deux-widget.php:87
+#: ../public/class-ultimate-social-deux-widget.php:287
+#: ../public/class-ultimate-social-deux-widget.php:291
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: ../admin/class-ultimate-social-deux-admin.php:180
+#: ../admin/class-ultimate-social-deux-admin.php:408
+#: ../admin/class-ultimate-social-deux-admin.php:409
+#: ../public/class-ultimate-social-deux-widget.php:315
+msgid "Mail"
+msgstr "e-mail"
+
+#: ../admin/class-ultimate-social-deux-admin.php:189
+msgid "Tweet via: @"
+msgstr "Tuitéa a través de: @"
+
+#: ../admin/class-ultimate-social-deux-admin.php:190
+msgid "Write your Twitter username here to be mentioned in visitors tweets"
+msgstr ""
+"Escribe aquí tu nombre de usuario de Twitter para ser mencionado en los "
+"tweets de visitantes"
+
+#: ../admin/class-ultimate-social-deux-admin.php:195
+#: ../admin/class-ultimate-social-deux-admin.php:201
+msgid "App ID"
+msgstr "ID de APP"
+
+#: ../admin/class-ultimate-social-deux-admin.php:196
+msgid ""
+"You need to register your site at vk.com to use the native vk.com button. "
+"Register your app abd obtain your ID"
+msgstr ""
+"Tienes que registrar tu sitio en vk.com para utilizar el botón nativo vk."
+"com. Registra tu aplicación para obtener tu ID"
+
+#: ../admin/class-ultimate-social-deux-admin.php:196
+msgid "here"
+msgstr "aquí"
+
+#: ../admin/class-ultimate-social-deux-admin.php:202
+msgid "This is used for insights of how people are sharing your content."
+msgstr ""
+"Esto se utiliza para darte detalles de cómo las personas están compartiendo "
+"su contenido."
+
+#: ../admin/class-ultimate-social-deux-admin.php:207
+msgid "Total Shares Button Text"
+msgstr "Botón Textual de Shares Totales"
+
+#: ../admin/class-ultimate-social-deux-admin.php:208
+msgid "The text you want for the total shares button"
+msgstr "El texto que quieres para el botón de shares totales"
+
+#: ../admin/class-ultimate-social-deux-admin.php:210
+#: ../public/class-ultimate-social-deux-public.php:235
+msgid "Shares"
+msgstr "Shares"
+
+#: ../admin/class-ultimate-social-deux-admin.php:214
+msgid "Add Open Graph tags"
+msgstr "Agregar etiquetas de Open Graph"
+
+#: ../admin/class-ultimate-social-deux-admin.php:215
+msgid "This is used for some social networks to fetch data from your site"
+msgstr ""
+"Esto se utiliza para algunas redes sociales que obtienen información desde "
+"tu sitio"
+
+#: ../admin/class-ultimate-social-deux-admin.php:220
+msgid "Bit.ly access token"
+msgstr "Token de acceso Bit.ly"
+
+#: ../admin/class-ultimate-social-deux-admin.php:221
+msgid ""
+"Bit.ly link shortener is available for Twitter and Buffer URLs. Get your "
+"access token by going to:"
+msgstr ""
+"El acortador Bit.ly está disponible para URLs de Twitter y Buffer. Obtén tu "
+"token de acceso en:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:226
+msgid "Caching for share buttons"
+msgstr "Almacenando en caché los botones share"
+
+#: ../admin/class-ultimate-social-deux-admin.php:227
+msgid ""
+"in seconds. We are caching some of the results from the API's that are not "
+"returning a valid JSONP output."
+msgstr ""
+"en segundos. Estamos almacenando en caché algunos de los resultados de las "
+"API's que no están reportando un resultado JSONP válido.  "
+
+#: ../admin/class-ultimate-social-deux-admin.php:233
+msgid "Style and script enqueuing"
+msgstr "Estilo y script en cola"
+
+#: ../admin/class-ultimate-social-deux-admin.php:236
+msgid ""
+"Some themes need to have the styles and scripts loaded on 'All Pages', some "
+"can load the styles and scripts on 'Individual Pages' where the buttons are "
+"visual."
+msgstr ""
+"Algunos themes necesitan tener los estilos y scripts cargados en 'Todas las "
+"páginas', algunos pueden cargar los estilos y scripts en 'Páginas "
+"Individuales' donde los botones son visuales."
+
+#: ../admin/class-ultimate-social-deux-admin.php:238
+msgid "All Pages"
+msgstr "Todas las páginas"
+
+#: ../admin/class-ultimate-social-deux-admin.php:239
+msgid "Individual Pages"
+msgstr "Páginas Individuales"
+
+#: ../admin/class-ultimate-social-deux-admin.php:240
+msgid "Manually - no styles or scripts will load"
+msgstr "Manualmente - estilos o scripts no se cargarán"
+
+#: ../admin/class-ultimate-social-deux-admin.php:250
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: ../admin/class-ultimate-social-deux-admin.php:255
+msgid "Custom CSS field"
+msgstr "Campo CSS personalizado"
+
+#: ../admin/class-ultimate-social-deux-admin.php:260
+msgid "Border radius - sharing buttons"
+msgstr "Border radius - botones sharing"
+
+#: ../admin/class-ultimate-social-deux-admin.php:265
+#: ../admin/class-ultimate-social-deux-admin.php:272
+#: ../admin/class-ultimate-social-deux-admin.php:298
+#: ../admin/class-ultimate-social-deux-admin.php:305
+msgid "top"
+msgstr "top"
+
+#: ../admin/class-ultimate-social-deux-admin.php:265
+#: ../admin/class-ultimate-social-deux-admin.php:279
+#: ../admin/class-ultimate-social-deux-admin.php:298
+#: ../admin/class-ultimate-social-deux-admin.php:312
+msgid "left"
+msgstr "izquierda"
+
+#: ../admin/class-ultimate-social-deux-admin.php:272
+#: ../admin/class-ultimate-social-deux-admin.php:286
+#: ../admin/class-ultimate-social-deux-admin.php:305
+#: ../admin/class-ultimate-social-deux-admin.php:319
+msgid "right"
+msgstr "derecha"
+
+#: ../admin/class-ultimate-social-deux-admin.php:279
+#: ../admin/class-ultimate-social-deux-admin.php:286
+#: ../admin/class-ultimate-social-deux-admin.php:312
+#: ../admin/class-ultimate-social-deux-admin.php:319
+msgid "bottom"
+msgstr "fondo"
+
+#: ../admin/class-ultimate-social-deux-admin.php:293
+msgid "Border radius - Fan Count"
+msgstr "Border radius - Contador de Fans"
+
+#: ../admin/class-ultimate-social-deux-admin.php:326
+msgid "Color control"
+msgstr "Control del color"
+
+#: ../admin/class-ultimate-social-deux-admin.php:331
+msgid "Hover"
+msgstr "Desplazarse"
+
+#: ../admin/class-ultimate-social-deux-admin.php:331
+#: ../admin/class-ultimate-social-deux-admin.php:338
+#: ../admin/class-ultimate-social-deux-admin.php:345
+#: ../admin/class-ultimate-social-deux-admin.php:352
+#: ../admin/class-ultimate-social-deux-admin.php:359
+#: ../admin/class-ultimate-social-deux-admin.php:366
+#: ../admin/class-ultimate-social-deux-admin.php:373
+#: ../admin/class-ultimate-social-deux-admin.php:380
+#: ../admin/class-ultimate-social-deux-admin.php:387
+#: ../admin/class-ultimate-social-deux-admin.php:394
+#: ../admin/class-ultimate-social-deux-admin.php:401
+#: ../admin/class-ultimate-social-deux-admin.php:408
+#: ../admin/class-ultimate-social-deux-admin.php:415
+#: ../admin/class-ultimate-social-deux-admin.php:422
+#: ../admin/class-ultimate-social-deux-admin.php:429
+#: ../admin/class-ultimate-social-deux-admin.php:436
+#: ../admin/class-ultimate-social-deux-admin.php:443
+#: ../admin/class-ultimate-social-deux-admin.php:450
+#: ../admin/class-ultimate-social-deux-admin.php:457
+#: ../admin/class-ultimate-social-deux-admin.php:464
+#: ../admin/class-ultimate-social-deux-admin.php:471
+#: ../admin/class-ultimate-social-deux-admin.php:478
+#: ../admin/class-ultimate-social-deux-admin.php:485
+#: ../admin/class-ultimate-social-deux-admin.php:492
+#: ../admin/class-ultimate-social-deux-admin.php:499
+#: ../admin/class-ultimate-social-deux-admin.php:506
+#: ../admin/class-ultimate-social-deux-admin.php:513
+#: ../admin/class-ultimate-social-deux-admin.php:520
+#: ../admin/class-ultimate-social-deux-admin.php:527
+#: ../admin/class-ultimate-social-deux-admin.php:534
+#: ../admin/class-ultimate-social-deux-admin.php:541
+msgid "Color"
+msgstr "Color"
+
+#: ../admin/class-ultimate-social-deux-admin.php:332
+msgid "When hovering over a button the button changes to this color"
+msgstr "Cuando te desplazas sobre un botón, éste cambia a este color"
+
+#: ../admin/class-ultimate-social-deux-admin.php:339
+#: ../admin/class-ultimate-social-deux-admin.php:346
+#: ../admin/class-ultimate-social-deux-admin.php:353
+#: ../admin/class-ultimate-social-deux-admin.php:360
+#: ../admin/class-ultimate-social-deux-admin.php:367
+#: ../admin/class-ultimate-social-deux-admin.php:374
+#: ../admin/class-ultimate-social-deux-admin.php:381
+#: ../admin/class-ultimate-social-deux-admin.php:388
+#: ../admin/class-ultimate-social-deux-admin.php:395
+#: ../admin/class-ultimate-social-deux-admin.php:402
+#: ../admin/class-ultimate-social-deux-admin.php:409
+#: ../admin/class-ultimate-social-deux-admin.php:416
+#: ../admin/class-ultimate-social-deux-admin.php:423
+#: ../admin/class-ultimate-social-deux-admin.php:430
+#: ../admin/class-ultimate-social-deux-admin.php:437
+#: ../admin/class-ultimate-social-deux-admin.php:444
+#: ../admin/class-ultimate-social-deux-admin.php:451
+#: ../admin/class-ultimate-social-deux-admin.php:458
+#: ../admin/class-ultimate-social-deux-admin.php:465
+#: ../admin/class-ultimate-social-deux-admin.php:472
+#: ../admin/class-ultimate-social-deux-admin.php:479
+#: ../admin/class-ultimate-social-deux-admin.php:486
+#: ../admin/class-ultimate-social-deux-admin.php:493
+#: ../admin/class-ultimate-social-deux-admin.php:500
+#: ../admin/class-ultimate-social-deux-admin.php:507
+#: ../admin/class-ultimate-social-deux-admin.php:514
+#: ../admin/class-ultimate-social-deux-admin.php:521
+#: ../admin/class-ultimate-social-deux-admin.php:528
+#: ../admin/class-ultimate-social-deux-admin.php:535
+#: ../admin/class-ultimate-social-deux-admin.php:542
+msgid "button color"
+msgstr "Color de botón"
+
+#: ../admin/class-ultimate-social-deux-admin.php:415
+#: ../admin/class-ultimate-social-deux-admin.php:416
+#: ../admin/class-ultimate-social-deux-admin.php:666
+#: ../admin/class-ultimate-social-deux-admin.php:732
+#: ../admin/class-ultimate-social-deux-admin.php:806
+#: ../admin/class-ultimate-social-deux-admin.php:881
+#: ../admin/class-ultimate-social-deux-admin.php:956
+#: ../admin/class-ultimate-social-deux-admin.php:1030
+#: ../admin/class-ultimate-social-deux-admin.php:1107
+#: ../admin/class-ultimate-social-deux-admin.php:1185
+#: ../admin/class-ultimate-social-deux-admin.php:1260
+#: ../admin/class-ultimate-social-deux-admin.php:1335
+#: ../admin/class-ultimate-social-deux-admin.php:1410
+#: ../admin/class-ultimate-social-deux-admin.php:1485
+#: ../admin/class-ultimate-social-deux-admin.php:1560
+#: ../admin/class-ultimate-social-deux-admin.php:1641
+#: ../admin/class-ultimate-social-deux-admin.php:1723
+#: ../public/class-ultimate-social-deux-widget.php:295
+msgid "Love"
+msgstr "Amo"
+
+#: ../admin/class-ultimate-social-deux-admin.php:422
+#: ../admin/class-ultimate-social-deux-admin.php:423
+#: ../admin/class-ultimate-social-deux-admin.php:667
+#: ../admin/class-ultimate-social-deux-admin.php:733
+#: ../admin/class-ultimate-social-deux-admin.php:807
+#: ../admin/class-ultimate-social-deux-admin.php:882
+#: ../admin/class-ultimate-social-deux-admin.php:957
+#: ../admin/class-ultimate-social-deux-admin.php:1031
+#: ../admin/class-ultimate-social-deux-admin.php:1108
+#: ../admin/class-ultimate-social-deux-admin.php:1186
+#: ../admin/class-ultimate-social-deux-admin.php:1261
+#: ../admin/class-ultimate-social-deux-admin.php:1336
+#: ../admin/class-ultimate-social-deux-admin.php:1411
+#: ../admin/class-ultimate-social-deux-admin.php:1486
+#: ../admin/class-ultimate-social-deux-admin.php:1561
+#: ../admin/class-ultimate-social-deux-admin.php:1642
+#: ../admin/class-ultimate-social-deux-admin.php:1724
+#: ../admin/class-ultimate-social-deux-admin.php:2172
+#: ../admin/class-ultimate-social-deux-admin.php:2179
+#: ../public/class-ultimate-social-deux-widget.php:299
+msgid "Pocket"
+msgstr "Pocket"
+
+#: ../admin/class-ultimate-social-deux-admin.php:429
+#: ../admin/class-ultimate-social-deux-admin.php:430
+#: ../admin/class-ultimate-social-deux-admin.php:2158
+#: ../admin/class-ultimate-social-deux-admin.php:2165
+msgid "Printfriendlyfriendly"
+msgstr "A imprimir"
+
+#: ../admin/class-ultimate-social-deux-admin.php:436
+#: ../admin/class-ultimate-social-deux-admin.php:437
+#: ../admin/class-ultimate-social-deux-admin.php:668
+#: ../admin/class-ultimate-social-deux-admin.php:734
+#: ../admin/class-ultimate-social-deux-admin.php:808
+#: ../admin/class-ultimate-social-deux-admin.php:883
+#: ../admin/class-ultimate-social-deux-admin.php:958
+#: ../admin/class-ultimate-social-deux-admin.php:1032
+#: ../admin/class-ultimate-social-deux-admin.php:1109
+#: ../admin/class-ultimate-social-deux-admin.php:1187
+#: ../admin/class-ultimate-social-deux-admin.php:1262
+#: ../admin/class-ultimate-social-deux-admin.php:1337
+#: ../admin/class-ultimate-social-deux-admin.php:1412
+#: ../admin/class-ultimate-social-deux-admin.php:1487
+#: ../admin/class-ultimate-social-deux-admin.php:1562
+#: ../admin/class-ultimate-social-deux-admin.php:1643
+#: ../admin/class-ultimate-social-deux-admin.php:1725
+#: ../admin/class-ultimate-social-deux-admin.php:2200
+#: ../admin/class-ultimate-social-deux-admin.php:2207
+#: ../public/class-ultimate-social-deux-widget.php:303
+msgid "Flipboard"
+msgstr "Flipboard"
+
+#: ../admin/class-ultimate-social-deux-admin.php:443
+#: ../admin/class-ultimate-social-deux-admin.php:444
+#: ../admin/class-ultimate-social-deux-admin.php:672
+#: ../admin/class-ultimate-social-deux-admin.php:738
+#: ../admin/class-ultimate-social-deux-admin.php:812
+#: ../admin/class-ultimate-social-deux-admin.php:887
+#: ../admin/class-ultimate-social-deux-admin.php:962
+#: ../admin/class-ultimate-social-deux-admin.php:1036
+#: ../admin/class-ultimate-social-deux-admin.php:1113
+#: ../admin/class-ultimate-social-deux-admin.php:1191
+#: ../admin/class-ultimate-social-deux-admin.php:1266
+#: ../admin/class-ultimate-social-deux-admin.php:1341
+#: ../admin/class-ultimate-social-deux-admin.php:1416
+#: ../admin/class-ultimate-social-deux-admin.php:1491
+#: ../admin/class-ultimate-social-deux-admin.php:1566
+#: ../admin/class-ultimate-social-deux-admin.php:1647
+#: ../admin/class-ultimate-social-deux-admin.php:1729
+#: ../public/class-ultimate-social-deux-fan-count.php:183
+#: ../public/class-ultimate-social-deux-widget.php:111
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../admin/class-ultimate-social-deux-admin.php:450
+#: ../admin/class-ultimate-social-deux-admin.php:451
+#: ../admin/class-ultimate-social-deux-admin.php:669
+#: ../admin/class-ultimate-social-deux-admin.php:735
+#: ../admin/class-ultimate-social-deux-admin.php:809
+#: ../admin/class-ultimate-social-deux-admin.php:884
+#: ../admin/class-ultimate-social-deux-admin.php:959
+#: ../admin/class-ultimate-social-deux-admin.php:1033
+#: ../admin/class-ultimate-social-deux-admin.php:1110
+#: ../admin/class-ultimate-social-deux-admin.php:1188
+#: ../admin/class-ultimate-social-deux-admin.php:1263
+#: ../admin/class-ultimate-social-deux-admin.php:1338
+#: ../admin/class-ultimate-social-deux-admin.php:1413
+#: ../admin/class-ultimate-social-deux-admin.php:1488
+#: ../admin/class-ultimate-social-deux-admin.php:1563
+#: ../admin/class-ultimate-social-deux-admin.php:1644
+#: ../admin/class-ultimate-social-deux-admin.php:1726
+#: ../admin/class-ultimate-social-deux-admin.php:2186
+#: ../admin/class-ultimate-social-deux-admin.php:2193
+#: ../public/class-ultimate-social-deux-widget.php:307
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../admin/class-ultimate-social-deux-admin.php:457
+#: ../admin/class-ultimate-social-deux-admin.php:458
+msgid "Feedly"
+msgstr "Feedly"
+
+#: ../admin/class-ultimate-social-deux-admin.php:464
+#: ../admin/class-ultimate-social-deux-admin.php:465
+#: ../admin/class-ultimate-social-deux-admin.php:1847
+#: ../public/class-ultimate-social-deux-widget.php:59
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../admin/class-ultimate-social-deux-admin.php:471
+#: ../admin/class-ultimate-social-deux-admin.php:472
+#: ../admin/class-ultimate-social-deux-admin.php:1853
+#: ../admin/class-ultimate-social-deux-admin.php:1858
+#: ../public/class-ultimate-social-deux-widget.php:63
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../admin/class-ultimate-social-deux-admin.php:478
+#: ../admin/class-ultimate-social-deux-admin.php:479
+#: ../admin/class-ultimate-social-deux-admin.php:1881
+#: ../admin/class-ultimate-social-deux-admin.php:1886
+#: ../public/class-ultimate-social-deux-widget.php:67
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: ../admin/class-ultimate-social-deux-admin.php:485
+#: ../admin/class-ultimate-social-deux-admin.php:486
+#: ../admin/class-ultimate-social-deux-admin.php:1903
+#: ../admin/class-ultimate-social-deux-admin.php:1908
+#: ../public/class-ultimate-social-deux-widget.php:71
+msgid "Envato"
+msgstr "Envato"
+
+#: ../admin/class-ultimate-social-deux-admin.php:492
+#: ../admin/class-ultimate-social-deux-admin.php:493
+#: ../admin/class-ultimate-social-deux-admin.php:1892
+#: ../admin/class-ultimate-social-deux-admin.php:1897
+#: ../public/class-ultimate-social-deux-widget.php:75
+msgid "Github"
+msgstr "Github"
+
+#: ../admin/class-ultimate-social-deux-admin.php:499
+#: ../admin/class-ultimate-social-deux-admin.php:500
+#: ../admin/class-ultimate-social-deux-admin.php:1864
+#: ../admin/class-ultimate-social-deux-admin.php:1869
+#: ../public/class-ultimate-social-deux-widget.php:79
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../admin/class-ultimate-social-deux-admin.php:506
+#: ../admin/class-ultimate-social-deux-admin.php:507
+#: ../admin/class-ultimate-social-deux-admin.php:1914
+#: ../admin/class-ultimate-social-deux-admin.php:1919
+#: ../admin/class-ultimate-social-deux-admin.php:1926
+#: ../public/class-ultimate-social-deux-widget.php:83
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../admin/class-ultimate-social-deux-admin.php:513
+#: ../admin/class-ultimate-social-deux-admin.php:514
+#: ../admin/class-ultimate-social-deux-admin.php:1995
+#: ../admin/class-ultimate-social-deux-admin.php:2000
+#: ../public/class-ultimate-social-deux-widget.php:91
+msgid "Feedpress"
+msgstr "Feedpress"
+
+#: ../admin/class-ultimate-social-deux-admin.php:520
+#: ../admin/class-ultimate-social-deux-admin.php:521
+#: ../admin/class-ultimate-social-deux-admin.php:1972
+#: ../admin/class-ultimate-social-deux-admin.php:1977
+#: ../admin/class-ultimate-social-deux-admin.php:1983
+#: ../admin/class-ultimate-social-deux-admin.php:1989
+#: ../public/class-ultimate-social-deux-widget.php:95
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: ../admin/class-ultimate-social-deux-admin.php:527
+#: ../admin/class-ultimate-social-deux-admin.php:528
+#: ../admin/class-ultimate-social-deux-admin.php:1955
+#: ../admin/class-ultimate-social-deux-admin.php:1960
+#: ../admin/class-ultimate-social-deux-admin.php:1966
+#: ../public/class-ultimate-social-deux-widget.php:99
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../admin/class-ultimate-social-deux-admin.php:534
+#: ../admin/class-ultimate-social-deux-admin.php:535
+#: ../public/class-ultimate-social-deux-fan-count.php:134
+#: ../public/class-ultimate-social-deux-fan-count.php:162
+#: ../public/class-ultimate-social-deux-fan-count.php:169
+#: ../public/class-ultimate-social-deux-widget.php:103
+msgid "Members"
+msgstr "Usuarios"
+
+#: ../admin/class-ultimate-social-deux-admin.php:541
+#: ../admin/class-ultimate-social-deux-admin.php:542
+#: ../public/class-ultimate-social-deux-fan-count.php:176
+#: ../public/class-ultimate-social-deux-widget.php:107
+msgid "Posts"
+msgstr "Posts"
+
+#: ../admin/class-ultimate-social-deux-admin.php:553
+msgid "Popup header:"
+msgstr "Encabezado de popup"
+
+#: ../admin/class-ultimate-social-deux-admin.php:554
+msgid "The heading of the mail popup"
+msgstr "Título del e-mail popup"
+
+#: ../admin/class-ultimate-social-deux-admin.php:556
+#: ../public/class-ultimate-social-deux-public.php:1215
+msgid "Share with your friends"
+msgstr "Comparte con tus amigos"
+
+#: ../admin/class-ultimate-social-deux-admin.php:560
+msgid "Mail From:"
+msgstr "Mail de:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:561
+msgid "Email address that mail form will email from"
+msgstr "Dirección de e-mail con la que el formulario se enviará "
+
+#: ../admin/class-ultimate-social-deux-admin.php:567
+msgid "Mail From Name:"
+msgstr "Nombre de quien envía el e-mail:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:568
+msgid "Name that mail form will email with"
+msgstr "Nombre con el que el formulario se enviará "
+
+#: ../admin/class-ultimate-social-deux-admin.php:574
+msgid "Mail Subject:"
+msgstr "Asunto de e-mail"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+msgid "Subject of email."
+msgstr "Asunto de e-mail"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+#: ../admin/class-ultimate-social-deux-admin.php:582
+msgid "Available tags is:"
+msgstr "Etiqueta disponible es:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+#: ../admin/class-ultimate-social-deux-admin.php:582
+msgid "Outputs title of the post or page"
+msgstr "Devuelve títulos de post o página"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+#: ../admin/class-ultimate-social-deux-admin.php:582
+msgid "Outputs url of the post or page"
+msgstr "Devuelve URL de post o página"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+#: ../admin/class-ultimate-social-deux-admin.php:582
+msgid "Outputs the author of the post or page"
+msgstr "Devuelve el autor de post o página"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+#: ../admin/class-ultimate-social-deux-admin.php:582
+msgid "Outputs the title of the Wordpress Install"
+msgstr "Devuelve el título de la instación Wordpress"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+#: ../admin/class-ultimate-social-deux-admin.php:582
+msgid "Outputs the url of the Wordpress Install"
+msgstr "Devuelve el URL de la instación Wordpress"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+msgid "Outputs the senders name"
+msgstr "Devuelve el nombre de remitente"
+
+#: ../admin/class-ultimate-social-deux-admin.php:575
+msgid "Outputs the senders email"
+msgstr "Devuleve el e-mail del remitente"
+
+#: ../admin/class-ultimate-social-deux-admin.php:577
+#: ../public/class-ultimate-social-deux-public.php:1283
+msgid "A visitor of"
+msgstr "Un visitante de"
+
+#: ../admin/class-ultimate-social-deux-admin.php:577
+#: ../public/class-ultimate-social-deux-public.php:1283
+msgid "shared"
+msgstr "compartió"
+
+#: ../admin/class-ultimate-social-deux-admin.php:577
+#: ../public/class-ultimate-social-deux-public.php:1283
+msgid "with you."
+msgstr "contigo."
+
+#: ../admin/class-ultimate-social-deux-admin.php:581
+msgid "Mail Message:"
+msgstr "Mensaje de e-mail:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:582
+msgid "Body of email."
+msgstr "Cuerpo de e-mail."
+
+#: ../admin/class-ultimate-social-deux-admin.php:584
+#: ../public/class-ultimate-social-deux-public.php:1210
+msgid ""
+"I read this article and found it very interesting, thought it might be "
+"something for you. The article is called"
+msgstr ""
+"Leí este artículo y me pareció muy interesante, pensé que podría ser algo "
+"para ti. El artículo se llama"
+
+#: ../admin/class-ultimate-social-deux-admin.php:584
+#: ../public/class-ultimate-social-deux-public.php:1210
+msgid "and is located at"
+msgstr "y está situado en"
+
+#: ../admin/class-ultimate-social-deux-admin.php:588
+msgid "Send copy to admin?"
+msgstr "¿Enviar copia a administrador?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:592
+#: ../admin/class-ultimate-social-deux-admin.php:602
+msgid "Yes"
+msgstr "Sí"
+
+#: ../admin/class-ultimate-social-deux-admin.php:593
+#: ../admin/class-ultimate-social-deux-admin.php:603
+#: ../public/class-ultimate-social-deux-visual-composer.php:60
+msgid "No"
+msgstr "No"
+
+#: ../admin/class-ultimate-social-deux-admin.php:598
+msgid "Enable Captcha?"
+msgstr "¿Habilitar Captcha?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:608
+msgid "Captcha Question"
+msgstr "Pregunta Captcha"
+
+#: ../admin/class-ultimate-social-deux-admin.php:609
+msgid "Your captcha question"
+msgstr "Tu pregunta captcha"
+
+#: ../admin/class-ultimate-social-deux-admin.php:611
+#: ../public/class-ultimate-social-deux-public.php:1213
+msgid "What is the sum of 7 and 2?"
+msgstr "¿Cuál es el resultado de 7 más 2?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:615
+msgid "Captcha Answer"
+msgstr "Respuesta Captcha"
+
+#: ../admin/class-ultimate-social-deux-admin.php:616
+msgid "Your captcha answer"
+msgstr "Tu respuesta captcha"
+
+#: ../admin/class-ultimate-social-deux-admin.php:622
+msgid "Try message"
+msgstr "Intentar mensaje"
+
+#: ../admin/class-ultimate-social-deux-admin.php:623
+msgid "Before the message has been sent"
+msgstr "Antes de que el mensaje haya sido enviado"
+
+#: ../admin/class-ultimate-social-deux-admin.php:625
+#: ../public/class-ultimate-social-deux-public.php:206
+msgid "Trying to send email..."
+msgstr "Intentando enviar el e-mail"
+
+#: ../admin/class-ultimate-social-deux-admin.php:629
+msgid "Success message"
+msgstr "Mensaje exitoso"
+
+#: ../admin/class-ultimate-social-deux-admin.php:630
+msgid "For successful sent email"
+msgstr "Para e-mail enviado con éxito"
+
+#: ../admin/class-ultimate-social-deux-admin.php:632
+#: ../public/class-ultimate-social-deux-public.php:205
+msgid "Great work! Your message was sent."
+msgstr "¡Buen trabajo! Tu mensaje fue enviado."
+
+#: ../admin/class-ultimate-social-deux-admin.php:644
+msgid "Floating"
+msgstr "Flotante"
+
+#: ../admin/class-ultimate-social-deux-admin.php:649
+#: ../admin/class-ultimate-social-deux-admin.php:715
+#: ../admin/class-ultimate-social-deux-admin.php:789
+#: ../admin/class-ultimate-social-deux-admin.php:864
+#: ../admin/class-ultimate-social-deux-admin.php:939
+#: ../admin/class-ultimate-social-deux-admin.php:1013
+#: ../admin/class-ultimate-social-deux-admin.php:1090
+#: ../admin/class-ultimate-social-deux-admin.php:1168
+#: ../admin/class-ultimate-social-deux-admin.php:1243
+#: ../admin/class-ultimate-social-deux-admin.php:1318
+#: ../admin/class-ultimate-social-deux-admin.php:1393
+#: ../admin/class-ultimate-social-deux-admin.php:1468
+#: ../admin/class-ultimate-social-deux-admin.php:1543
+#: ../admin/class-ultimate-social-deux-admin.php:1624
+#: ../admin/class-ultimate-social-deux-admin.php:1706
+msgid "Buttons"
+msgstr "Botones"
+
+#: ../admin/class-ultimate-social-deux-admin.php:652
+#: ../admin/class-ultimate-social-deux-admin.php:718
+#: ../admin/class-ultimate-social-deux-admin.php:792
+#: ../admin/class-ultimate-social-deux-admin.php:867
+#: ../admin/class-ultimate-social-deux-admin.php:942
+#: ../admin/class-ultimate-social-deux-admin.php:1016
+#: ../admin/class-ultimate-social-deux-admin.php:1093
+#: ../admin/class-ultimate-social-deux-admin.php:1171
+#: ../admin/class-ultimate-social-deux-admin.php:1246
+#: ../admin/class-ultimate-social-deux-admin.php:1321
+#: ../admin/class-ultimate-social-deux-admin.php:1396
+#: ../admin/class-ultimate-social-deux-admin.php:1471
+#: ../admin/class-ultimate-social-deux-admin.php:1546
+#: ../admin/class-ultimate-social-deux-admin.php:1627
+#: ../admin/class-ultimate-social-deux-admin.php:1709
+#: ../public/class-ultimate-social-deux-widget.php:239
+msgid "Total"
+msgstr "Total"
+
+#: ../admin/class-ultimate-social-deux-admin.php:654
+#: ../admin/class-ultimate-social-deux-admin.php:657
+#: ../admin/class-ultimate-social-deux-admin.php:665
+#: ../admin/class-ultimate-social-deux-admin.php:720
+#: ../admin/class-ultimate-social-deux-admin.php:723
+#: ../admin/class-ultimate-social-deux-admin.php:731
+#: ../admin/class-ultimate-social-deux-admin.php:794
+#: ../admin/class-ultimate-social-deux-admin.php:797
+#: ../admin/class-ultimate-social-deux-admin.php:805
+#: ../admin/class-ultimate-social-deux-admin.php:869
+#: ../admin/class-ultimate-social-deux-admin.php:872
+#: ../admin/class-ultimate-social-deux-admin.php:880
+#: ../admin/class-ultimate-social-deux-admin.php:944
+#: ../admin/class-ultimate-social-deux-admin.php:947
+#: ../admin/class-ultimate-social-deux-admin.php:955
+#: ../admin/class-ultimate-social-deux-admin.php:1018
+#: ../admin/class-ultimate-social-deux-admin.php:1021
+#: ../admin/class-ultimate-social-deux-admin.php:1029
+#: ../admin/class-ultimate-social-deux-admin.php:1095
+#: ../admin/class-ultimate-social-deux-admin.php:1098
+#: ../admin/class-ultimate-social-deux-admin.php:1106
+#: ../admin/class-ultimate-social-deux-admin.php:1173
+#: ../admin/class-ultimate-social-deux-admin.php:1176
+#: ../admin/class-ultimate-social-deux-admin.php:1184
+#: ../admin/class-ultimate-social-deux-admin.php:1248
+#: ../admin/class-ultimate-social-deux-admin.php:1251
+#: ../admin/class-ultimate-social-deux-admin.php:1259
+#: ../admin/class-ultimate-social-deux-admin.php:1323
+#: ../admin/class-ultimate-social-deux-admin.php:1326
+#: ../admin/class-ultimate-social-deux-admin.php:1334
+#: ../admin/class-ultimate-social-deux-admin.php:1398
+#: ../admin/class-ultimate-social-deux-admin.php:1401
+#: ../admin/class-ultimate-social-deux-admin.php:1409
+#: ../admin/class-ultimate-social-deux-admin.php:1473
+#: ../admin/class-ultimate-social-deux-admin.php:1476
+#: ../admin/class-ultimate-social-deux-admin.php:1484
+#: ../admin/class-ultimate-social-deux-admin.php:1548
+#: ../admin/class-ultimate-social-deux-admin.php:1551
+#: ../admin/class-ultimate-social-deux-admin.php:1559
+#: ../admin/class-ultimate-social-deux-admin.php:1629
+#: ../admin/class-ultimate-social-deux-admin.php:1632
+#: ../admin/class-ultimate-social-deux-admin.php:1640
+#: ../admin/class-ultimate-social-deux-admin.php:1711
+#: ../admin/class-ultimate-social-deux-admin.php:1714
+#: ../admin/class-ultimate-social-deux-admin.php:1722
+#: ../public/class-ultimate-social-deux-widget.php:247
+#: ../public/class-ultimate-social-deux-widget.php:259
+#: ../public/class-ultimate-social-deux-widget.php:291
+msgid "native"
+msgstr "nativo"
+
+#: ../admin/class-ultimate-social-deux-admin.php:670
+#: ../admin/class-ultimate-social-deux-admin.php:736
+#: ../admin/class-ultimate-social-deux-admin.php:810
+#: ../admin/class-ultimate-social-deux-admin.php:885
+#: ../admin/class-ultimate-social-deux-admin.php:960
+#: ../admin/class-ultimate-social-deux-admin.php:1034
+#: ../admin/class-ultimate-social-deux-admin.php:1111
+#: ../admin/class-ultimate-social-deux-admin.php:1189
+#: ../admin/class-ultimate-social-deux-admin.php:1264
+#: ../admin/class-ultimate-social-deux-admin.php:1339
+#: ../admin/class-ultimate-social-deux-admin.php:1414
+#: ../admin/class-ultimate-social-deux-admin.php:1489
+#: ../admin/class-ultimate-social-deux-admin.php:1564
+#: ../admin/class-ultimate-social-deux-admin.php:1645
+#: ../admin/class-ultimate-social-deux-admin.php:1727
+msgid "Printfriendly"
+msgstr "A imprimir"
+
+#: ../admin/class-ultimate-social-deux-admin.php:673
+msgid "Hide on frontpage?"
+msgstr "¿Ocultar el frontpage?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:674
+#: ../admin/class-ultimate-social-deux-admin.php:1037
+#: ../admin/class-ultimate-social-deux-admin.php:1114
+msgid "Hide on blog page?"
+msgstr "¿Ocultar en la página blog?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:675
+msgid "Hide on posts?"
+msgstr "¿Ocultar en posts?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:676
+msgid "Hide on pages?"
+msgstr "¿Ocultar en páginas?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:677
+#: ../admin/class-ultimate-social-deux-admin.php:1038
+#: ../admin/class-ultimate-social-deux-admin.php:1115
+msgid "Hide on archive pages?"
+msgstr "¿Ocultar en páginas archivadas?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:678
+#: ../admin/class-ultimate-social-deux-admin.php:1039
+#: ../admin/class-ultimate-social-deux-admin.php:1116
+msgid "Hide on search pages?"
+msgstr "¿Ocultar en páginas de búsqueda?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:679
+msgid "Hide on mobile?"
+msgstr "¿Ocultar en móviles?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:680
+msgid "Hide on desktop?"
+msgstr "¿Ocultar en desktop?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:681
+#: ../admin/class-ultimate-social-deux-admin.php:739
+#: ../admin/class-ultimate-social-deux-admin.php:813
+#: ../admin/class-ultimate-social-deux-admin.php:888
+#: ../admin/class-ultimate-social-deux-admin.php:963
+#: ../admin/class-ultimate-social-deux-admin.php:1040
+#: ../admin/class-ultimate-social-deux-admin.php:1117
+#: ../admin/class-ultimate-social-deux-admin.php:1192
+#: ../admin/class-ultimate-social-deux-admin.php:1267
+#: ../admin/class-ultimate-social-deux-admin.php:1342
+#: ../admin/class-ultimate-social-deux-admin.php:1417
+#: ../admin/class-ultimate-social-deux-admin.php:1492
+#: ../admin/class-ultimate-social-deux-admin.php:1567
+#: ../admin/class-ultimate-social-deux-admin.php:1648
+#: ../admin/class-ultimate-social-deux-admin.php:1730
+msgid "Hide count numbers?"
+msgstr "¿Ocultar números contadores?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:682
+#: ../admin/class-ultimate-social-deux-admin.php:740
+#: ../admin/class-ultimate-social-deux-admin.php:814
+#: ../admin/class-ultimate-social-deux-admin.php:889
+#: ../admin/class-ultimate-social-deux-admin.php:964
+#: ../admin/class-ultimate-social-deux-admin.php:1041
+#: ../admin/class-ultimate-social-deux-admin.php:1118
+#: ../admin/class-ultimate-social-deux-admin.php:1193
+#: ../admin/class-ultimate-social-deux-admin.php:1268
+#: ../admin/class-ultimate-social-deux-admin.php:1343
+#: ../admin/class-ultimate-social-deux-admin.php:1418
+#: ../admin/class-ultimate-social-deux-admin.php:1493
+#: ../admin/class-ultimate-social-deux-admin.php:1568
+#: ../admin/class-ultimate-social-deux-admin.php:1649
+#: ../admin/class-ultimate-social-deux-admin.php:1731
+msgid "Native buttons on hover for Facebook, Google+ and VKontakte?"
+msgstr ""
+"¿Botones nativos en desplazamientos sobre Facebook, Google+ y VKontakte?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:687
+msgid "Custom URL"
+msgstr "URL personalizado"
+
+#: ../admin/class-ultimate-social-deux-admin.php:688
+msgid "You might want a static URL for your floating buttons across your site."
+msgstr ""
+"Es posible que desees una URL estática para los botones flotantes a través "
+"de tu sitio."
+
+#: ../admin/class-ultimate-social-deux-admin.php:693
+#: ../admin/class-ultimate-social-deux-admin.php:756
+#: ../admin/class-ultimate-social-deux-admin.php:830
+#: ../admin/class-ultimate-social-deux-admin.php:905
+#: ../admin/class-ultimate-social-deux-admin.php:980
+#: ../admin/class-ultimate-social-deux-admin.php:1057
+#: ../admin/class-ultimate-social-deux-admin.php:1134
+#: ../admin/class-ultimate-social-deux-admin.php:1209
+#: ../admin/class-ultimate-social-deux-admin.php:1284
+#: ../admin/class-ultimate-social-deux-admin.php:1359
+#: ../admin/class-ultimate-social-deux-admin.php:1434
+#: ../admin/class-ultimate-social-deux-admin.php:1509
+#: ../admin/class-ultimate-social-deux-admin.php:1584
+#: ../admin/class-ultimate-social-deux-admin.php:1665
+#: ../admin/class-ultimate-social-deux-admin.php:1747
+msgid "Exclude"
+msgstr "Excluir"
+
+#: ../admin/class-ultimate-social-deux-admin.php:694
+msgid ""
+"Exclude Floating buttons on posts/pages with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones flotantes en posts/páginas con estos ID's? Separados por "
+"comas"
+
+#: ../admin/class-ultimate-social-deux-admin.php:699
+msgid "Floating animation speed"
+msgstr "Velocidad de la animación flotante"
+
+#: ../admin/class-ultimate-social-deux-admin.php:700
+msgid "in ms"
+msgstr "en ms"
+
+#: ../admin/class-ultimate-social-deux-admin.php:710
+msgid "Top of Pages"
+msgstr "Top de páginas"
+
+#: ../admin/class-ultimate-social-deux-admin.php:745
+#: ../admin/class-ultimate-social-deux-admin.php:819
+#: ../admin/class-ultimate-social-deux-admin.php:894
+#: ../admin/class-ultimate-social-deux-admin.php:969
+#: ../admin/class-ultimate-social-deux-admin.php:1046
+#: ../admin/class-ultimate-social-deux-admin.php:1123
+#: ../admin/class-ultimate-social-deux-admin.php:1198
+#: ../admin/class-ultimate-social-deux-admin.php:1273
+#: ../admin/class-ultimate-social-deux-admin.php:1348
+#: ../admin/class-ultimate-social-deux-admin.php:1423
+#: ../admin/class-ultimate-social-deux-admin.php:1498
+#: ../admin/class-ultimate-social-deux-admin.php:1573
+#: ../admin/class-ultimate-social-deux-admin.php:1654
+#: ../admin/class-ultimate-social-deux-admin.php:1736
+#: ../public/class-ultimate-social-deux-visual-composer.php:70
+#: ../public/class-ultimate-social-deux-widget.php:326
+msgid "Align"
+msgstr "Alinear"
+
+#: ../admin/class-ultimate-social-deux-admin.php:749
+#: ../admin/class-ultimate-social-deux-admin.php:823
+#: ../admin/class-ultimate-social-deux-admin.php:898
+#: ../admin/class-ultimate-social-deux-admin.php:973
+#: ../admin/class-ultimate-social-deux-admin.php:1050
+#: ../admin/class-ultimate-social-deux-admin.php:1127
+#: ../admin/class-ultimate-social-deux-admin.php:1202
+#: ../admin/class-ultimate-social-deux-admin.php:1277
+#: ../admin/class-ultimate-social-deux-admin.php:1352
+#: ../admin/class-ultimate-social-deux-admin.php:1427
+#: ../admin/class-ultimate-social-deux-admin.php:1502
+#: ../admin/class-ultimate-social-deux-admin.php:1577
+#: ../admin/class-ultimate-social-deux-admin.php:1658
+#: ../admin/class-ultimate-social-deux-admin.php:1740
+#: ../public/class-ultimate-social-deux-visual-composer.php:74
+msgid "Left"
+msgstr "Izquierda"
+
+#: ../admin/class-ultimate-social-deux-admin.php:750
+#: ../admin/class-ultimate-social-deux-admin.php:824
+#: ../admin/class-ultimate-social-deux-admin.php:899
+#: ../admin/class-ultimate-social-deux-admin.php:974
+#: ../admin/class-ultimate-social-deux-admin.php:1051
+#: ../admin/class-ultimate-social-deux-admin.php:1128
+#: ../admin/class-ultimate-social-deux-admin.php:1203
+#: ../admin/class-ultimate-social-deux-admin.php:1278
+#: ../admin/class-ultimate-social-deux-admin.php:1353
+#: ../admin/class-ultimate-social-deux-admin.php:1428
+#: ../admin/class-ultimate-social-deux-admin.php:1503
+#: ../admin/class-ultimate-social-deux-admin.php:1578
+#: ../admin/class-ultimate-social-deux-admin.php:1659
+#: ../admin/class-ultimate-social-deux-admin.php:1741
+#: ../public/class-ultimate-social-deux-visual-composer.php:73
+msgid "Center"
+msgstr "Centro"
+
+#: ../admin/class-ultimate-social-deux-admin.php:751
+#: ../admin/class-ultimate-social-deux-admin.php:825
+#: ../admin/class-ultimate-social-deux-admin.php:900
+#: ../admin/class-ultimate-social-deux-admin.php:975
+#: ../admin/class-ultimate-social-deux-admin.php:1052
+#: ../admin/class-ultimate-social-deux-admin.php:1129
+#: ../admin/class-ultimate-social-deux-admin.php:1204
+#: ../admin/class-ultimate-social-deux-admin.php:1279
+#: ../admin/class-ultimate-social-deux-admin.php:1354
+#: ../admin/class-ultimate-social-deux-admin.php:1429
+#: ../admin/class-ultimate-social-deux-admin.php:1504
+#: ../admin/class-ultimate-social-deux-admin.php:1579
+#: ../admin/class-ultimate-social-deux-admin.php:1660
+#: ../admin/class-ultimate-social-deux-admin.php:1742
+#: ../public/class-ultimate-social-deux-visual-composer.php:75
+msgid "Right"
+msgstr "Derecha"
+
+#: ../admin/class-ultimate-social-deux-admin.php:757
+msgid "Exclude Buttons on top of pages with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones en top de páginas con estos ID's? Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:762
+#: ../admin/class-ultimate-social-deux-admin.php:836
+#: ../admin/class-ultimate-social-deux-admin.php:911
+#: ../admin/class-ultimate-social-deux-admin.php:986
+#: ../admin/class-ultimate-social-deux-admin.php:1063
+#: ../admin/class-ultimate-social-deux-admin.php:1140
+#: ../admin/class-ultimate-social-deux-admin.php:1215
+#: ../admin/class-ultimate-social-deux-admin.php:1290
+#: ../admin/class-ultimate-social-deux-admin.php:1365
+#: ../admin/class-ultimate-social-deux-admin.php:1440
+#: ../admin/class-ultimate-social-deux-admin.php:1515
+#: ../admin/class-ultimate-social-deux-admin.php:1590
+#: ../admin/class-ultimate-social-deux-admin.php:1671
+#: ../admin/class-ultimate-social-deux-admin.php:1753
+msgid "Share text"
+msgstr "Compartir texto"
+
+#: ../admin/class-ultimate-social-deux-admin.php:763
+#: ../admin/class-ultimate-social-deux-admin.php:837
+#: ../admin/class-ultimate-social-deux-admin.php:912
+#: ../admin/class-ultimate-social-deux-admin.php:987
+#: ../admin/class-ultimate-social-deux-admin.php:1064
+#: ../admin/class-ultimate-social-deux-admin.php:1141
+#: ../admin/class-ultimate-social-deux-admin.php:1216
+#: ../admin/class-ultimate-social-deux-admin.php:1291
+#: ../admin/class-ultimate-social-deux-admin.php:1366
+#: ../admin/class-ultimate-social-deux-admin.php:1441
+#: ../admin/class-ultimate-social-deux-admin.php:1516
+#: ../admin/class-ultimate-social-deux-admin.php:1591
+#: ../admin/class-ultimate-social-deux-admin.php:1672
+#: ../admin/class-ultimate-social-deux-admin.php:1754
+msgid "Text to be added left of the buttons"
+msgstr "Texto para agregar a la izquierda de los botones"
+
+#: ../admin/class-ultimate-social-deux-admin.php:768
+#: ../admin/class-ultimate-social-deux-admin.php:842
+#: ../admin/class-ultimate-social-deux-admin.php:917
+#: ../admin/class-ultimate-social-deux-admin.php:992
+#: ../admin/class-ultimate-social-deux-admin.php:1069
+#: ../admin/class-ultimate-social-deux-admin.php:1146
+#: ../admin/class-ultimate-social-deux-admin.php:1221
+#: ../admin/class-ultimate-social-deux-admin.php:1296
+#: ../admin/class-ultimate-social-deux-admin.php:1371
+#: ../admin/class-ultimate-social-deux-admin.php:1446
+#: ../admin/class-ultimate-social-deux-admin.php:1521
+#: ../admin/class-ultimate-social-deux-admin.php:1596
+#: ../admin/class-ultimate-social-deux-admin.php:1677
+#: ../admin/class-ultimate-social-deux-admin.php:1759
+msgid "Margin above buttons"
+msgstr "Margen por encima de los botones"
+
+#: ../admin/class-ultimate-social-deux-admin.php:769
+#: ../admin/class-ultimate-social-deux-admin.php:775
+#: ../admin/class-ultimate-social-deux-admin.php:843
+#: ../admin/class-ultimate-social-deux-admin.php:849
+#: ../admin/class-ultimate-social-deux-admin.php:918
+#: ../admin/class-ultimate-social-deux-admin.php:924
+#: ../admin/class-ultimate-social-deux-admin.php:993
+#: ../admin/class-ultimate-social-deux-admin.php:999
+#: ../admin/class-ultimate-social-deux-admin.php:1070
+#: ../admin/class-ultimate-social-deux-admin.php:1076
+#: ../admin/class-ultimate-social-deux-admin.php:1147
+#: ../admin/class-ultimate-social-deux-admin.php:1153
+#: ../admin/class-ultimate-social-deux-admin.php:1222
+#: ../admin/class-ultimate-social-deux-admin.php:1228
+#: ../admin/class-ultimate-social-deux-admin.php:1297
+#: ../admin/class-ultimate-social-deux-admin.php:1303
+#: ../admin/class-ultimate-social-deux-admin.php:1372
+#: ../admin/class-ultimate-social-deux-admin.php:1378
+#: ../admin/class-ultimate-social-deux-admin.php:1447
+#: ../admin/class-ultimate-social-deux-admin.php:1453
+#: ../admin/class-ultimate-social-deux-admin.php:1522
+#: ../admin/class-ultimate-social-deux-admin.php:1528
+#: ../admin/class-ultimate-social-deux-admin.php:1597
+#: ../admin/class-ultimate-social-deux-admin.php:1603
+#: ../admin/class-ultimate-social-deux-admin.php:1678
+#: ../admin/class-ultimate-social-deux-admin.php:1684
+#: ../admin/class-ultimate-social-deux-admin.php:1760
+#: ../admin/class-ultimate-social-deux-admin.php:1766
+msgid "In pixels"
+msgstr "En píxeles"
+
+#: ../admin/class-ultimate-social-deux-admin.php:774
+#: ../admin/class-ultimate-social-deux-admin.php:848
+#: ../admin/class-ultimate-social-deux-admin.php:923
+#: ../admin/class-ultimate-social-deux-admin.php:998
+#: ../admin/class-ultimate-social-deux-admin.php:1075
+#: ../admin/class-ultimate-social-deux-admin.php:1152
+#: ../admin/class-ultimate-social-deux-admin.php:1227
+#: ../admin/class-ultimate-social-deux-admin.php:1302
+#: ../admin/class-ultimate-social-deux-admin.php:1377
+#: ../admin/class-ultimate-social-deux-admin.php:1452
+#: ../admin/class-ultimate-social-deux-admin.php:1527
+#: ../admin/class-ultimate-social-deux-admin.php:1602
+#: ../admin/class-ultimate-social-deux-admin.php:1683
+#: ../admin/class-ultimate-social-deux-admin.php:1765
+msgid "Margin below buttons"
+msgstr "Margen por debajo de los botones"
+
+#: ../admin/class-ultimate-social-deux-admin.php:784
+msgid "Bottom of Pages"
+msgstr "Fondo de páginas"
+
+#: ../admin/class-ultimate-social-deux-admin.php:831
+msgid "Exclude Buttons on bottom of pages with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones en fondo de páginas con estos ID's? Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:858
+msgid "Top of Post excerpts"
+msgstr "Top de extracto de post"
+
+#: ../admin/class-ultimate-social-deux-admin.php:859
+#: ../admin/class-ultimate-social-deux-admin.php:934
+msgid "Your theme may not support this."
+msgstr "Puede que tu theme no soporte esto."
+
+#: ../admin/class-ultimate-social-deux-admin.php:906
+msgid ""
+"Exclude Buttons on top of post excerpts with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones en top de extractos de posts con estos ID's? Separados por "
+"comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:933
+msgid "Bottom of Post excerpts"
+msgstr "Borde inferior de extracto de post"
+
+#: ../admin/class-ultimate-social-deux-admin.php:981
+msgid ""
+"Exclude Buttons on bottom of post excerpts with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones en fondo de extractos de posts con estos ID's? Separados "
+"por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1008
+msgid "Top of Posts"
+msgstr "Borde superior de Posts"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1058
+msgid "Exclude Buttons on top of posts with these IDs? Comma seperated:"
+msgstr "¿Excluir botones en top de posts con estos ID's? Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1085
+msgid "Bottom of Posts"
+msgstr "Fondo de Posts"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1135
+msgid "Exclude Buttons on bottom of posts with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones en fondo de posts con estos ID's? Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1162
+msgid "WooCommerce Top"
+msgstr "Top de WooCommerce "
+
+#: ../admin/class-ultimate-social-deux-admin.php:1163
+#: ../admin/class-ultimate-social-deux-admin.php:1238
+#: ../admin/class-ultimate-social-deux-admin.php:1313
+#: ../admin/class-ultimate-social-deux-admin.php:1388
+#: ../admin/class-ultimate-social-deux-admin.php:1463
+#: ../admin/class-ultimate-social-deux-admin.php:1538
+msgid "You will need"
+msgstr "Necesitarás"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1163
+#: ../admin/class-ultimate-social-deux-admin.php:1238
+#: ../admin/class-ultimate-social-deux-admin.php:1313
+#: ../admin/class-ultimate-social-deux-admin.php:1388
+#: ../admin/class-ultimate-social-deux-admin.php:1463
+#: ../admin/class-ultimate-social-deux-admin.php:1538
+msgid "for these options to work."
+msgstr "para que estas opciones funcionen."
+
+#: ../admin/class-ultimate-social-deux-admin.php:1210
+msgid ""
+"Exclude Buttons on top of WooCommerce products with these IDs? Comma "
+"seperated:"
+msgstr ""
+"¿Excluir botones en top de  productos de WooCommerce con estos ID's? "
+"Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1237
+msgid "WooCommerce Bottom"
+msgstr "Fondo de WooCommerce"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1285
+msgid ""
+"Exclude Buttons on bottom of WooCommerce products with these IDs? Comma "
+"seperated:"
+msgstr ""
+"¿Excluir botones en fondo de  productos de WooCommerce con estos ID's? "
+"Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1312
+msgid "Jigoshop Top"
+msgstr "Top de Jigoshop"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1360
+msgid ""
+"Exclude Buttons on top of Jigoshop products with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones en top de productos de Jigoshop con estos ID's? Separados "
+"por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1387
+msgid "Jigoshop Bottom"
+msgstr "Fondo de Jigoshop"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1435
+msgid ""
+"Exclude Buttons on bottom of Jigoshop products with these IDs? Comma "
+"seperated:"
+msgstr ""
+"¿Excluir botones en fondo de productos de Jigoshop con estos ID's? Separados "
+"por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1462
+msgid "Easy Digital Downloads Top"
+msgstr "Top de Easy Digital Downloads"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1510
+msgid ""
+"Exclude Buttons on top of Easy Digital Downloads products with these IDs? "
+"Comma seperated:"
+msgstr ""
+"¿Excluir botones en top de productos de Easy Digital Downloads con estos "
+"ID's? Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1537
+msgid "Easy Digital Downloads Bottom"
+msgstr "Fondo de Easy Digital Downloads"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1585
+msgid ""
+"Exclude Buttons on bottom of Easy Digital Downloads products with these IDs? "
+"Comma seperated:"
+msgstr ""
+"¿Excluir botones en fondo de productos de Easy Digital Downloads con estos "
+"ID's? Separados por comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1612
+msgid "Top of Custom Post Types"
+msgstr "Top de Tipos de Posts Personalizados"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1613
+#: ../admin/class-ultimate-social-deux-admin.php:1694
+msgid ""
+"You might have a plugin or theme which is creating custom post types. You "
+"can easily integrate these custom post types with Ultimate Social Deux."
+msgstr ""
+"Es posible que tengas un plugin o theme que está creando Tipos de Posts "
+"Personalizados. Puedes integrar fácilmente Tipos de Posts Personalizados con "
+"Ultimate Social Deux. "
+
+#: ../admin/class-ultimate-social-deux-admin.php:1618
+#: ../admin/class-ultimate-social-deux-admin.php:1700
+msgid "CPT Slugs"
+msgstr "Slugs CPT"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1619
+#: ../admin/class-ultimate-social-deux-admin.php:1701
+msgid ""
+"Add the slugs of the CPT's that you want the buttons to display on. Comma "
+"seperated: \"books, movies, links\""
+msgstr ""
+"Añadir los slugs de los CPT's donde quieres que se muestren los botones. "
+"Separados por comas: \"libros, películas, enlaces \" "
+
+#: ../admin/class-ultimate-social-deux-admin.php:1666
+msgid ""
+"Exclude Buttons on top of custom post types with these IDs? Comma seperated:"
+msgstr ""
+"¿Excluir botones en top de Custom Post Types con estos ID's? Separados por "
+"comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1693
+msgid "Bottom of Custom Post Types"
+msgstr "Fondo de Tipos de Posts Personalizados"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1748
+msgid ""
+"Exclude Buttons on bottom of custom post types with these IDs? Comma "
+"seperated:"
+msgstr ""
+"¿Excluir botones en fondo de Custom Post Types con estos ID's? Separados por "
+"comas:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1778
+msgid "Cache"
+msgstr "Caché"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1783
+msgid "How long should we cache the counts?"
+msgstr "¿Cuánto tiempo debemos almacenar en caché los contadores?"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1784
+msgid "in hours"
+msgstr "en horas"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1795
+#: ../admin/class-ultimate-social-deux-admin.php:1830
+#: ../admin/class-ultimate-social-deux-admin.php:1847
+#: ../admin/class-ultimate-social-deux-admin.php:1886
+msgid "Page ID"
+msgstr "ID de página"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1797
+#: ../admin/class-ultimate-social-deux-admin.php:1832
+#: ../admin/class-ultimate-social-deux-admin.php:1849
+#: ../admin/class-ultimate-social-deux-admin.php:1860
+#: ../admin/class-ultimate-social-deux-admin.php:1888
+#: ../admin/class-ultimate-social-deux-admin.php:1940
+#: ../admin/class-ultimate-social-deux-admin.php:1962
+msgid "Your ID is what comes after"
+msgstr "Tu ID es lo que viene a continuación de"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1807
+msgid "handle"
+msgstr "manejar"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1813
+msgid "App key"
+msgstr "Llave de App"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1815
+#: ../admin/class-ultimate-social-deux-admin.php:1838
+#: ../admin/class-ultimate-social-deux-admin.php:1871
+#: ../admin/class-ultimate-social-deux-admin.php:1968
+#: ../admin/class-ultimate-social-deux-admin.php:1985
+msgid "Register your App at"
+msgstr "Registra tu App en "
+
+#: ../admin/class-ultimate-social-deux-admin.php:1819
+msgid "App secret"
+msgstr "Secreto de App"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1836
+#: ../admin/class-ultimate-social-deux-admin.php:1966
+#: ../admin/class-ultimate-social-deux-admin.php:1983
+msgid "API key"
+msgstr "Llave de API"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1842
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1858
+msgid "Channel ID"
+msgstr "ID de canal"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1869
+msgid "Client ID"
+msgstr "ID de cliente"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1875
+msgid "SoundCloud username"
+msgstr "Nombre de usuario de SoundCloud"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1897
+#: ../admin/class-ultimate-social-deux-admin.php:1908
+#: ../admin/class-ultimate-social-deux-admin.php:1926
+#: ../admin/class-ultimate-social-deux-admin.php:1949
+msgid "username"
+msgstr "nombre de usuario"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1919
+msgid "Access Token"
+msgstr "Token de acceso"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1921
+msgid "Find your access token by following"
+msgstr "Encuentra tu token de acceso siguiendo"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1921
+msgid "this link."
+msgstr "este enlace."
+
+#: ../admin/class-ultimate-social-deux-admin.php:1938
+#: ../admin/class-ultimate-social-deux-admin.php:1960
+msgid "Group ID"
+msgstr "ID de grupo"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1940
+msgid "Make sure that you are getting a group ID and not a page ID."
+msgstr "Asegúrate de que estás consiguiendo un ID de grupo y ID de página."
+
+#: ../admin/class-ultimate-social-deux-admin.php:1977
+msgid "list name"
+msgstr "nombre de lista"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1979
+msgid "Get your list name from"
+msgstr "Recibe tu nombre de lista desde"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1989
+msgid "subscription link"
+msgstr "enlace de suscripción"
+
+#: ../admin/class-ultimate-social-deux-admin.php:1991
+msgid "Use your own or build one with Mailchimp"
+msgstr "Usa el tuyo o crea uno con MailChimp"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2000
+msgid "JSON url"
+msgstr "URL de JSON"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2002
+msgid "Link yo your feeds .json file. First go to"
+msgstr "Vincula tus feeds .json. Primero ve a"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2002
+msgid ""
+"Then choose JSON File from the Miscellaneous dropdown menu. You must have a "
+"Premium Feedpress account to do use this."
+msgstr ""
+"A continuación, elige el archivo JSON del menú desplegable de Miscellaneous. "
+"Debes tener una cuenta Premium Feedpress para poder hacer esto."
+
+#: ../admin/class-ultimate-social-deux-admin.php:2006
+msgid "Manual RSS count"
+msgstr "Contador RSS manual"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2008
+msgid "Add a manual count if you do not have a Premium Feedpress account."
+msgstr "Agregar un contador manual, si no tienes una cuenta Premium Feedpress."
+
+#: ../admin/class-ultimate-social-deux-admin.php:2018
+#: ../admin/class-ultimate-social-deux-admin.php:2032
+#: ../admin/class-ultimate-social-deux-admin.php:2046
+#: ../admin/class-ultimate-social-deux-admin.php:2060
+#: ../admin/class-ultimate-social-deux-admin.php:2074
+#: ../admin/class-ultimate-social-deux-admin.php:2088
+#: ../admin/class-ultimate-social-deux-admin.php:2102
+#: ../admin/class-ultimate-social-deux-admin.php:2116
+#: ../admin/class-ultimate-social-deux-admin.php:2130
+#: ../admin/class-ultimate-social-deux-admin.php:2144
+#: ../admin/class-ultimate-social-deux-admin.php:2158
+#: ../admin/class-ultimate-social-deux-admin.php:2172
+#: ../admin/class-ultimate-social-deux-admin.php:2186
+#: ../admin/class-ultimate-social-deux-admin.php:2200
+msgid "Popup Height"
+msgstr "Altura del popup"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2019
+#: ../admin/class-ultimate-social-deux-admin.php:2026
+#: ../admin/class-ultimate-social-deux-admin.php:2033
+#: ../admin/class-ultimate-social-deux-admin.php:2040
+#: ../admin/class-ultimate-social-deux-admin.php:2047
+#: ../admin/class-ultimate-social-deux-admin.php:2054
+#: ../admin/class-ultimate-social-deux-admin.php:2061
+#: ../admin/class-ultimate-social-deux-admin.php:2068
+#: ../admin/class-ultimate-social-deux-admin.php:2075
+#: ../admin/class-ultimate-social-deux-admin.php:2082
+#: ../admin/class-ultimate-social-deux-admin.php:2089
+#: ../admin/class-ultimate-social-deux-admin.php:2096
+#: ../admin/class-ultimate-social-deux-admin.php:2103
+#: ../admin/class-ultimate-social-deux-admin.php:2110
+#: ../admin/class-ultimate-social-deux-admin.php:2117
+#: ../admin/class-ultimate-social-deux-admin.php:2124
+#: ../admin/class-ultimate-social-deux-admin.php:2131
+#: ../admin/class-ultimate-social-deux-admin.php:2138
+#: ../admin/class-ultimate-social-deux-admin.php:2145
+#: ../admin/class-ultimate-social-deux-admin.php:2152
+#: ../admin/class-ultimate-social-deux-admin.php:2159
+#: ../admin/class-ultimate-social-deux-admin.php:2166
+#: ../admin/class-ultimate-social-deux-admin.php:2173
+#: ../admin/class-ultimate-social-deux-admin.php:2180
+#: ../admin/class-ultimate-social-deux-admin.php:2187
+#: ../admin/class-ultimate-social-deux-admin.php:2194
+#: ../admin/class-ultimate-social-deux-admin.php:2201
+#: ../admin/class-ultimate-social-deux-admin.php:2208
+msgid "in pixels"
+msgstr "en píxeles"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2025
+#: ../admin/class-ultimate-social-deux-admin.php:2039
+#: ../admin/class-ultimate-social-deux-admin.php:2053
+#: ../admin/class-ultimate-social-deux-admin.php:2067
+#: ../admin/class-ultimate-social-deux-admin.php:2081
+#: ../admin/class-ultimate-social-deux-admin.php:2095
+#: ../admin/class-ultimate-social-deux-admin.php:2109
+#: ../admin/class-ultimate-social-deux-admin.php:2123
+#: ../admin/class-ultimate-social-deux-admin.php:2137
+#: ../admin/class-ultimate-social-deux-admin.php:2151
+#: ../admin/class-ultimate-social-deux-admin.php:2165
+#: ../admin/class-ultimate-social-deux-admin.php:2179
+#: ../admin/class-ultimate-social-deux-admin.php:2193
+#: ../admin/class-ultimate-social-deux-admin.php:2207
+msgid "Popup Width"
+msgstr "Ancho de popup"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2219
+msgid "Enter your CodeCanyon Purchase Code"
+msgstr "Introducir el Código de Compra CodeCanyon"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2220
+msgid "This enables automatic updates."
+msgstr "Esto habilita actualizaciones automáticas."
+
+#: ../admin/class-ultimate-social-deux-admin.php:2220
+msgid "Check for updates."
+msgstr "Buscar actualizaciones."
+
+#: ../admin/class-ultimate-social-deux-admin.php:2225
+msgid "To access your Purchase Code for an item:"
+msgstr "Para acceder a su Código de Compra de un artículo:"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2226
+msgid "Log into your CodeCanyon account."
+msgstr "Ingresar a tu cuenta CodeCanyon."
+
+#: ../admin/class-ultimate-social-deux-admin.php:2226
+msgid "From your account dropdown links, select \"Downloads\"."
+msgstr "Desde los enlaces desplegables de tu cuenta, selecciona 'Downloads'."
+
+#: ../admin/class-ultimate-social-deux-admin.php:2226
+msgid "Click the \"Download\" button that corresponds with your purchase."
+msgstr "Haz clic en el botón 'Download' que se corresponde con tu compra"
+
+#: ../admin/class-ultimate-social-deux-admin.php:2226
+msgid ""
+"Select the \"License certificate & purchase code\" download link. Your "
+"Purchase Code will be displayed within the License Certificate."
+msgstr ""
+"Seleccionar el link de download del \"Certificado de Licencia y Código de "
+"Compra\". Tu Código de Compra será mostrado en el Certificado de Licencia."
+
+#: ../admin/includes/wp-updates-plugin.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Un error HTTP inesperado ocurrió durante la solicitud de la API. </p><p><a "
+"href=\"?\" onclick=\"document.location.reload(); return false;\"> Intentar "
+"de nuevo</a>"
+
+#: ../admin/includes/wp-updates-plugin.php:90
+msgid "An unknown error occurred"
+msgstr "Se ha producido un error desconocido"
+
+#: ../public/class-ultimate-social-deux-fan-count.php:64
+msgid "Fans"
+msgstr "Fans"
+
+#: ../public/class-ultimate-social-deux-fan-count.php:71
+#: ../public/class-ultimate-social-deux-fan-count.php:78
+#: ../public/class-ultimate-social-deux-fan-count.php:99
+#: ../public/class-ultimate-social-deux-fan-count.php:106
+#: ../public/class-ultimate-social-deux-fan-count.php:113
+#: ../public/class-ultimate-social-deux-fan-count.php:120
+#: ../public/class-ultimate-social-deux-fan-count.php:127
+#: ../public/class-ultimate-social-deux-fan-count.php:148
+msgid "Followers"
+msgstr "Seguidores"
+
+#: ../public/class-ultimate-social-deux-fan-count.php:85
+#: ../public/class-ultimate-social-deux-fan-count.php:92
+#: ../public/class-ultimate-social-deux-fan-count.php:141
+#: ../public/class-ultimate-social-deux-fan-count.php:155
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+#: ../public/class-ultimate-social-deux-pinterest-sharer.php:85
+msgid "is not allowing us to pull images from them."
+msgstr "no nos está permitiendo traer imágenes de ellos."
+
+#: ../public/class-ultimate-social-deux-pinterest-sharer.php:87
+msgid "Unknown error!"
+msgstr "¡Error desconocido!"
+
+#: ../public/class-ultimate-social-deux-pinterest-sharer.php:93
+msgid "No url to pull images from is specified!"
+msgstr "¡No se especifica la url para traer las imágenes!"
+
+#: ../public/class-ultimate-social-deux-pinterest-sharer.php:125
+msgid "Pinterest Image Sharer"
+msgstr "Pinterest Image Sharer"
+
+#: ../public/class-ultimate-social-deux-public.php:279
+msgid "You have already loved this item."
+msgstr "Ya has amado este artículo."
+
+#: ../public/class-ultimate-social-deux-public.php:280
+msgid "Sorry, there was a problem processing your request."
+msgstr "Lo sentimos, ha habido un problema al procesar tu solicitud."
+
+#: ../public/class-ultimate-social-deux-public.php:1217
+msgid "Your Name"
+msgstr "Tu nombre"
+
+#: ../public/class-ultimate-social-deux-public.php:1218
+msgid "Your Email"
+msgstr "Tu e-mail"
+
+#: ../public/class-ultimate-social-deux-public.php:1219
+msgid "Recipient Email"
+msgstr "E-mail del destinatario"
+
+#: ../public/class-ultimate-social-deux-public.php:1220
+msgid "Enter a Message"
+msgstr "Introducir un mensaje"
+
+#: ../public/class-ultimate-social-deux-public.php:1221
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../public/class-ultimate-social-deux-public.php:1249
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../public/class-ultimate-social-deux-public.php:1296
+msgid "Captcha cannot be empty!"
+msgstr "¡Captcha no puede estar vacío! "
+
+#: ../public/class-ultimate-social-deux-public.php:1298
+msgid "Captcha does not match."
+msgstr "Captcha no coincide."
+
+#: ../public/class-ultimate-social-deux-public.php:1302
+msgid "Recipient email address is not valid."
+msgstr "E-mail del destinatario no es válido."
+
+#: ../public/class-ultimate-social-deux-public.php:1304
+msgid "Your email address is not valid."
+msgstr "Tu e-mail no es válida."
+
+#: ../public/class-ultimate-social-deux-public.php:1306
+msgid "Your name cannot be empty."
+msgstr "Tu nombre no puede estar vacío."
+
+#: ../public/class-ultimate-social-deux-public.php:1308
+msgid "Message cannot be empty."
+msgstr "El mensaje no puede estar vacío."
+
+#: ../public/class-ultimate-social-deux-public.php:1327
+msgid "Unknown wp_mail() error."
+msgstr "Error wp_mail () desconocido."
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:6
+#: ../public/class-ultimate-social-deux-visual-composer.php:34
+msgid "Ultimate Social"
+msgstr "Ultimate Social"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:6
+msgid "Fan Count"
+msgstr "Contador de Fans"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:9
+#: ../public/class-ultimate-social-deux-visual-composer.php:37
+msgid "Social"
+msgstr "Social"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:13
+#: ../public/class-ultimate-social-deux-visual-composer.php:51
+msgid "Networks"
+msgstr "Networks"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:14
+msgid ""
+"Comma seperate a list of networks you would like to display. Setup is done "
+"from the Ultimate Social Deux settings menu. Available networks is:"
+msgstr ""
+"Crear y separar con comas una lista de network que te gustaría mostrar. La "
+"configuración se realiza desde el menú de configuración de Ultimate Social "
+"Deux. Los networks disponibles son:"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:19
+#: ../public/class-ultimate-social-deux-widget.php:114
+msgid "Rows"
+msgstr "Filas"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:41
+msgid "URL to share"
+msgstr "URL para compratir"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:46
+msgid "Share Text:"
+msgstr "Texto para compratir:"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:52
+msgid ""
+"Comma seperate a list of networks you would like to display. Available "
+"networks is:"
+msgstr ""
+"Crear y separar con comas una lista de network que te gustaría mostrar. Los "
+"networks disponibles son:"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:57
+msgid "Counts?"
+msgstr "¿Contador?"
+
+#: ../public/class-ultimate-social-deux-visual-composer.php:65
+msgid "Custom Class"
+msgstr "Personalizar Clase"
+
+#: ../public/class-ultimate-social-deux-widget.php:15
+msgid "Ultimate Social Deux - Fan Count"
+msgstr "Ultimate Social Deux - Contador de Fans"
+
+#: ../public/class-ultimate-social-deux-widget.php:202
+msgid "Ultimate Social Deux"
+msgstr "Ultimate Social Deux"
+
+#: ../public/class-ultimate-social-deux-widget.php:234
+msgid "Share text:"
+msgstr "Texto para compratir:"
+
+#: ../public/class-ultimate-social-deux-widget.php:311
+msgid "Print"
+msgstr "Imprimir"
+
+#: ../public/class-ultimate-social-deux-widget.php:318
+msgid "Custom URL to share:"
+msgstr "URL personalizada para compartir:"
+
+#: ../public/class-ultimate-social-deux-widget.php:323
+msgid "Hide counts?"
+msgstr "¿Esconder contadores?"
+
+#~ msgid "Total Shares"
+#~ msgstr "Shares Totales"
+
+#~ msgid "9"
+#~ msgstr "9"
+
+#~ msgid ""
+#~ "Subject of email.<br>Available tags is: <br>{post_title} -> Outputs title "
+#~ "of the post or page<br>{post_url} -> Outputs url of the post or "
+#~ "page<br>{post_author} -> Outputs the author of the post or "
+#~ "page<br>{site_title} -> Outputs the title of the Wordpress "
+#~ "Install<br>{site_url} -> Outputs the url of the Wordpress Install"
+#~ msgstr ""
+#~ "Email emne<br>Tilgængelige mærker: <br>{post_title} -> Outputs title of "
+#~ "the post or page<br>{post_url} -> Outputs url of the post or "
+#~ "page<br>{post_author} -> Outputs the author of the post or "
+#~ "page<br>{site_title} -> Outputs the title of the Wordpress "
+#~ "Install<br>{site_url} -> Outputs the url of the Wordpress Install"

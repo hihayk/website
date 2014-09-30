@@ -1,0 +1,45 @@
+// Site-wide Variables
+
+$site-fontfamily: Din, Arial, Tahoma, sans-serif;
+
+// COLORS
+
+$site-color-bg:   #fff;
+$site-color-font: #222;
+
+$selection-color: #eeccb7; // when a user highlights text this is the super duper color!
+
+// Little Bird Colors
+$lb-yellow: #ede2bd;
+
+$lb-green: #96b49e;
+$lb-green-alt: #63816b;
+$lb-green-alt2: #b5c7ba;
+
+$lb-orange: #e45845;
+$lb-orange-alt: #ac3f30;
+$lb-orange-alt2: #e45845;
+
+$lb-light: #a4a4a4;
+$lb-light-alt: lighten($lb-light, 20%);
+
+$lb-dark: #56595c;
+$lb-dark-alt: #333;
+
+
+//font sizes
+
+$baseline: 14px;
+$fontsize-xsmall: $baseline / 2;
+$fontsize-small:  $baseline / (1.5);
+$fontsize-normal: $baseline;
+$fontsize-medium: $baseline * 2;
+$fontsize-large:  $baseline * 3;
+
+// site spacing, keep it consistant bitches
+
+$spacing: 12px;
+$spacing-double:  $spacing * 2;
+$spacing-quad:    $spacing * 4;
+$spacing-half:    $spacing / 2;
+$spacing-fourth:  $spacing / 4;

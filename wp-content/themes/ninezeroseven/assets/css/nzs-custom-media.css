@@ -1,0 +1,203 @@
+
+/* #Media Queries
+================================================== */
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (min-width: 1800px) {
+
+		.parallax{
+			background-size: cover !important;
+		}
+
+	}
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+	}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+		.topBar.nzs-drop-menu .mainMenu{
+			margin: 0 auto;
+			float: none;
+			text-align: center;
+			display:block;
+		}
+
+		.nzs-drop-menu .mainMenu > ul{
+			display:inline-block;
+			text-align: right;
+			margin: 0 auto;
+		}
+		.gallery-option{
+			display: none;
+			opacity: 0;
+		}
+
+
+	.nzs-mobile-menu .mobile-toggle-menu{display:inline;}
+	.topBar.nzs-mobile-menu div.container,.nzs-mobile-menu#main-menu{
+		height:100% !important;
+		width:100%;
+	}
+
+	.nzs-mobile-menu nav.mainMenu ul li ul li{
+		background:none !important;
+		border:none !important;
+	}
+
+	.nzs-mobile-menu nav.mainMenu{
+		position:absolute;
+		top:100%;
+		display:none;
+		background-color:#2b2b2b;
+		margin-top:0;
+		padding:15px 10px 5px 20px;
+		width:100%;
+	}
+
+	.nzs-mobile-menu nav.mainMenu ul li,
+	.nzs-mobile-menu nav.mainMenu ul li ul,
+	.nzs-mobile-menu nav.mainMenu ul li ul li a{
+		display:block;
+		width:100%;
+		float:none;
+	}
+	.nzs-mobile-menu.full-header nav.mainMenu ul li ul{
+		position:inherit;
+		left:0;
+		padding-bottom:0;
+	}
+	.nzs-mobile-menu nav.mainMenu ul li ul li{
+		border:none;
+	}
+	.nzs-mobile-menu nav.mainMenu ul li ul li a{
+		padding:5px 0 0 0;
+		background:none;
+	}
+	.nzs-mobile-menu nav.mainMenu ul li ul li a:hover,
+	.nzs-mobile-menu nav.mainMenu ul li ul li:hover{
+		background-color:none !important;
+		background: none !important;
+	}
+
+	.nzs-mobile-menu nav.mainMenu ul li ul li ul,
+	.nzs-mobile-menu.normal-menu nav.mainMenu ul li ul li ul,
+	.nzs-mobile-menu.is-sticky nav.mainMenu ul li ul li ul{
+		display: block;
+		padding: 0;
+	}
+
+	.nzs-mobile-menu nav.mainMenu ul li ul li ul, 
+	.nzs-mobile-menu.normal-menu nav.mainMenu ul li ul li ul,
+	.nzs-mobile-menu.is-sticky nav.mainMenu ul li ul li ul,
+	.nzs-mobile-menu nav.mainMenu ul li ul{
+		position: inherit;
+		left:0;
+	}
+
+	.nzs-mobile-menu.is-sticky nav.mainMenu ul li ul,
+	.nzs-mobile-menu.normal-menu nav.mainMenu ul li ul{
+		padding:0;
+	}
+	.nzs-mobile-menu nav.mainMenu ul li ul li a:before{
+		content:"→";
+		color: #dedede;
+		font-size: 12px;
+		float:left;
+		margin-right: 5px;
+	}
+
+	.topBar.nzs-mobile-menu h1{
+		margin-left: 10px;
+	}
+			
+	}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 482px) and (max-width: 767px) {
+		.titleBar{
+			margin-left: 0px;
+			margin-right: 0px;
+		}
+
+
+
+		span.buttons{
+			text-align: center;
+		}
+		.topBar.nzs-drop-menu h1{
+			float:none;
+			display: block;
+			margin: 12px auto 15px auto;
+		}
+		.entry .message,.video-header .message {
+			display: none;
+		}
+
+}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 481px) {
+		.titleBar{
+			margin-left: 0px;
+			margin-right: 0px;
+		}
+		.topBar.nzs-drop-menu .mainMenu{
+			margin: 0 auto;
+			float: none;
+		}
+		.topBar.nzs-drop-menu h1{
+			float:none;
+			display: block;
+			margin: 12px auto 15px auto;
+		}
+		.entry .message,.video-header .message {
+			display: none;
+		}
+		.topBar.nzs-drop-menu .mainMenu ul{
+			margin: 0;
+		}
+		span.buttons{
+			text-align: center;
+		}
+		.post .box-left,.post .box-right{
+			float: none;
+		}
+
+		.nzs-drop-menu #subMenu{
+			display:block;
+			opacity: 1;
+			margin: 0 auto 10px auto;
+		}
+		.topBar.nzs-drop-menu .mainMenu ul{
+			display:none;
+			opacity: 0;
+		}
+
+		.topBar.nzs-mobile-menu .mainMenu{
+			margin: 0 auto;
+			float: none;
+		}
+
+		.slides .flex-content{
+			display: none;
+		}
+
+
+		#pp_full_res iframe{width: 100% !important;height: auto !important;}
+		.pp_pic_holder.pp_default { width: 96%!important; left: 2%!important; overflow: hidden; }
+		div.pp_default .pp_content_container .pp_left { padding-left: 0!important; }
+		div.pp_default .pp_content_container .pp_right { padding-right: 0!important; }
+		.pp_content { width: 100%!important; height: auto!important; }
+		.pp_fade { width: 100%!important; height: 100%!important; }
+		a.pp_expand, a.pp_contract, .pp_hoverContainer, .pp_gallery, .pp_top, .pp_bottom { display: none!important; }
+		#pp_full_res img { width: 100%!important; height: auto!important; }
+		a.pp_close { right: 10px!important; top: 10px!important; }
+		.pp_details { width: 100%!important; padding-left: 3%; padding-right: 4%; padding-top: 10px; padding-bottom: 10px; background-color: #fff; margin-top: -2px!important; }
+		
+	}
+

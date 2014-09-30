@@ -1,0 +1,13 @@
+.twitter-item {
+  border-top: 1px solid #ddd;
+}
+.twitter-item:first-child {
+	margin-top: 10px;
+}
+.twitter-item a.twitter-link {
+  color: #00ACEE !important;
+}
+.twitter-timestamp {
+  display: block;
+  padding: 5px 0;
+}

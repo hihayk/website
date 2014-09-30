@@ -1,0 +1,33 @@
+---
+layout: page-sections
+status: publish
+published: false
+title: Search
+author:
+  display_name: zeiber
+  login: zeiber
+  email: jason@getlittlebird.com
+  url: ''
+author_login: zeiber
+author_email: jason@getlittlebird.com
+wordpress_id: 3145
+wordpress_url: http://www.getlittlebird.com/?post_type=page-sections&#038;p=3145
+date: '2014-09-20 01:03:14 -0700'
+date_gmt: '2014-09-20 01:03:14 -0700'
+categories: []
+tags: []
+comments: []
+---
+<p><script><br />
+  (function() {<br />
+    var cx = '000174124888002867637:6binbxl9xoy';<br />
+    var gcse = document.createElement('script');<br />
+    gcse.type = 'text/javascript';<br />
+    gcse.async = true;<br />
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +<br />
+        '//www.google.com/cse/cse.js?cx=' + cx;<br />
+    var s = document.getElementsByTagName('script')[0];<br />
+    s.parentNode.insertBefore(gcse, s);<br />
+  })();<br />
+</script><br />
+<gcse:search></gcse:search></p>

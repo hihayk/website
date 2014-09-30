@@ -1,0 +1,60 @@
+.iconjs {
+    display: inline-block;
+    vertical-align: middle;
+    
+    width:  16px;
+    height: 16px;
+
+    svg  { height: 100%; width: 100%; }
+    path { fill: $lb-dark; }
+    
+    &, * { @include bbox; }
+}
+
+.iconjs-mright { margin-right: 4px; }
+.iconjs-mleft  { margin-left:  4px; }
+
+.iconjs-mtop    { margin-top:  3px; }
+.iconjs-mbottom { margin-bottom: 3px; }
+
+.iconjs-16 { height: 16px; width: 16px; }
+.iconjs-18 { height: 18px; width: 18px; }
+.iconjs-24 { height: 24px; width: 24px; }
+.iconjs-32 { height: 32px; width: 32px; }
+.iconjs-48 { height: 48px; width: 48px; }
+
+
+.iconjs-16h { height: 16px; width: 24px; }
+.iconjs-18h { height: 18px; width: 24px; }
+.iconjs-24h { height: 24px; width: 32px; }
+.iconjs-32h { height: 32px; width: 48px; }
+.iconjs-48h { height: 48px; width: 64px; }
+
+.iconjs-passive path { fill: $lb-green; }
+.iconjs-cta path { fill: $lb-orange; }
+
+
+.iconjs-stacked {
+    display: block;
+}
+
+.iconjs-info {
+    border: 1px solid mix($lb-green-alt, white, 25%);
+    @include border-radius(40px);
+    
+    width: 40px;
+    height: 40px;
+    
+    padding: 0px 8px 0px 8px;
+    
+    cursor: help;
+    
+    &:hover { 
+        background-color: mix($lb-green, white, 30%); 
+        border-color: $lb-green-alt;
+    }
+    
+    svg path { fill: $lb-green-alt; }
+}
+
+.iconjs-passive-alt path { fill: $lb-green-alt; }

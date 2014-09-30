@@ -1,0 +1,147 @@
+---
+layout: post
+status: publish
+published: true
+title: The Top 500 People at SXSW 2014
+author:
+  display_name: Nate Angell
+  login: nateangell
+  email: nate@getlittlebird.com
+  url: http://xolotl.org
+author_login: nateangell
+author_email: nate@getlittlebird.com
+author_url: http://xolotl.org
+wordpress_id: 2105
+wordpress_url: http://getlittlebird.com/?p=2105
+date: '2014-03-05 09:33:25 -0800'
+date_gmt: '2014-03-05 09:33:25 -0800'
+categories:
+- Top Insiders
+tags:
+- "#SXSW"
+comments:
+- id: 412
+  author: Sam Whitmore
+  author_email: samwhitmore@gmail.com
+  author_url: ''
+  date: '2014-03-05 22:15:00 -0800'
+  date_gmt: '2014-03-05 22:15:00 -0800'
+  content: Wow, guys. Congrats on this piece of work, and on the Silk deal, too.
+- id: 413
+  author: Sam Whitmore
+  author_email: samwhitmore@gmail.com
+  author_url: ''
+  date: '2014-03-05 22:16:00 -0800'
+  date_gmt: '2014-03-05 22:16:00 -0800'
+  content: Wow. Congrats, folks, on this terrific piece of work, and on the Silk arrangement,
+    too.
+- id: 414
+  author: Nate Angell
+  author_email: nate@xolotl.org
+  author_url: http://xolotl.org/
+  date: '2014-03-06 00:43:00 -0800'
+  date_gmt: '2014-03-06 00:43:00 -0800'
+  content: Thanks Sam! We are really liking Silk as a way to publish collections of
+    data like the good stuff Little Bird delivers.
+- id: 415
+  author: Alex Salkever
+  author_email: alex.salkever+Silk@gmail.com
+  author_url: ''
+  date: '2014-03-06 09:36:00 -0800'
+  date_gmt: '2014-03-06 09:36:00 -0800'
+  content: Sam - happy to brief you on how Silk works. :).
+- id: 416
+  author: Mike Wise
+  author_email: webwisedomllc@gmail.com
+  author_url: http://www.webwisedom.com/
+  date: '2014-03-07 12:24:00 -0800'
+  date_gmt: '2014-03-07 12:24:00 -0800'
+  content: Useful. Thank you!
+- id: 417
+  author: Jason Dunn
+  author_email: attnjd@gmail.com
+  author_url: ''
+  date: '2014-03-07 15:14:00 -0800'
+  date_gmt: '2014-03-07 15:14:00 -0800'
+  content: 'So... the CEO of Rackspace is #1 in popularity and Miley Cyrus is #344,
+    "as measured by the attention they get from their peers."  Right.'
+- id: 418
+  author: Marshall Kirkpatrick
+  author_email: marshall@getlittlebird.com
+  author_url: http://getlittlebird.com/
+  date: '2014-03-07 15:33:00 -0800'
+  date_gmt: '2014-03-07 15:33:00 -0800'
+  content: "Jason, thanks for your comment.   This isn't about how influential these
+    people are *in the world at large*, this is about how influential they are *in
+    the SXSW community*.  Specifically SXSW Interactive.  We think that's a lot more
+    interesting and useful than identifying people influential in general.  \n\nIn
+    the case of your example, Robert Scoble is the archetypal tech celeb - so he's
+    super influential in this particular space we're analyzing.  Make sense?  Cyrus
+    is watched by many members of the SXSW community (including myself, Ashton Kutcher),
+    but not by very many.  People like Scoble, Gary Vaynerchuck, Evan Williams, Brian
+    Solis don't follow Cyrus on Twitter.  Only 18 of the 500 on this list do follow
+    her, in fact.  Almost half of them follow Scoble, which puts him at the very top.\n\nIn
+    technical terms, it's referred to as in degree centrality network analysis.\n\nIf
+    you're the same Jason Dunn who's flying a 3D printer to the international space
+    station (awesome, btw!) then this is like saying Rachel Park or Stratsys are at
+    the top of the 3D printing world.\n\n\n\nLet me know if that still doesn't make
+    sense, but we think it's pretty robust.  Thanks again for commenting!"
+- id: 419
+  author: Jason Dunn
+  author_email: attnjd@gmail.com
+  author_url: ''
+  date: '2014-03-07 15:37:00 -0800'
+  date_gmt: '2014-03-07 15:37:00 -0800'
+  content: Marshall, that was an expert-level defusing of my snark.  Kudos to you,
+    sir!  And thank you for the clarification that this is intended to reflect SXSW
+    Interactive.
+- id: 430
+  author: The Top 500 People at SXSW 2014 | Little Bird |...
+  author_email: ''
+  author_url: http://www.scoop.it/t/fashion-by-niuniu/p/4018120860/2014/03/22/the-top-500-people-at-sxsw-2014-little-bird
+  date: '2014-03-22 02:08:21 -0700'
+  date_gmt: '2014-03-22 02:08:21 -0700'
+  content: "[&#8230;] At Little Bird, we believe the best way to make sense out of
+    a complex experience like SXSW is to learn who is at the heart of the community
+    around it&mdash;and then explore their connections and conversation. That&rsquo;s
+    what Little Bird delivers for any topic and so to help you focus your SXSW experience,
+    we proudly present the leading 500 people of SXSW 2014, as measured by the attention
+    they get from their peers....&nbsp; [&#8230;]"
+- id: 490
+  author: priligy cialis
+  author_email: ''
+  author_url: http://snk.to/DOgj
+  date: '2014-08-22 12:12:33 -0700'
+  date_gmt: '2014-08-22 12:12:33 -0700'
+  content: |-
+    <strong>trackback</strong>
+
+    This post is in fact a good one it assists new the web visitors, who are wishing in favor of blogging.
+---
+<p><em><strong>Meet Little Bird at SXSW 2014:</strong> Three of our team members will be on the ground in Austin, including cofounder and CEO Marshall Kirkpatrick (<a href="http://twitter.com/marshallk">@marshallk</a>), our new CTO Michael “MJ” Jones (<a href="http://twitter.com/mjfreshyfresh">@mjfreshyfresh</a>), and me, Little Bird’s Doorman, Nate Angell (<a href="http://twitter.com/xolotl">@xolotl</a>). Reach out to us on Twitter if you want to meet at SXSW and talk about <a href="http://getlittlebird.com">Little Bird</a>.<br />
+</em></p>
+<hr />
+<p>Let’s face it: SXSW is an overwhelming carnival, whether you’re in Austin with 72,000 other attendees or tuning in from afar on the social web. How will you make sense of it all? Where will you focus your attention?</p>
+<h3>2014 Keynotes</h3>
+<p>Little Bird is proud to see our own cofounder and CEO Marshall Kirkpatrick (<a href="http://twitter.com/marshallk">@marshallk</a>) in the top 20 SXSW 2014 people, but where do 2014 SXSWi keynoters Austin Kleon (<a href="http://twitter.com/austinkleon">@austinkleon</a>), Dr Neil deGrasse Tyson (<a href="http://twitter.com/neiltyson">@neiltyson</a>), Anne Wojcicki (<a href="http://twitter.com/23andme">@23andme</a>), Adam Savage (<a href="http://twitter.com/donttrythis">@donttrythis</a>) &amp; Chelsea Clinton (<a href="http://twitter.com/chelseaclinton">@chelseaclinton</a>) fit in the SXSW community? You can bet after they keynote at SXSWi, they’ll gain stature among other SXSW insiders and move to the center of the SXSW community.<br />
+[Tweet "Where do you fit in with 2014’s #SXSWi keynoters @austinkleon @neiltyson @23andme @donttrythis &amp; @chelseaclinton?"]</p>
+<p style="text-align: center;"><a href="http://getlittlebird.com/wp-content/uploads/2014/03/SXSW2014Keynoters.png"><img class="aligncenter  wp-image-2111" alt="SXSW 2014 Keynoters" src="http://getlittlebird.com/wp-content/uploads/2014/03/SXSW2014Keynoters.png" width="600" /></a></p>
+<p>At Little Bird, we believe the best way to make sense out of a complex experience like SXSW is to learn who is at the heart of the community around it—and then explore their connections and conversation. That’s what Little Bird delivers for any topic and so to help you focus your SXSW experience, we proudly present the leading 500 people of SXSW 2014, as measured by the attention they get from their peers.</p>
+<h3>Tweets from SXSW 2014 Top 500</h3>
+<p><a href="http://heybigfish.com/">Last year</a>, there were over 250K people and 750K tweets using the #SXSW hashtag: are you ready to read all that? This year, focus your attention on the center of the SXSW conversation: tweets by leading 500 SXSW people past and future.<br />
+[Tweet "Finally! A #SXSW you can manage via @getLittleBird’s top 500 #SXSW people stream"]</p>
+<p><a class="twitter-timeline" href="https://twitter.com/getLittleBird/sxsw-2014-people" data-widget-id="441143830209761280">Tweets from https://twitter.com/getLittleBird/sxsw-2014-people</a><br />
+<script type="text/javascript">// <![CDATA[<br />
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");<br />
+// ]]></script></p>
+<h3>Who’s on the SXSW 2014 Top 500 List?</h3>
+<p>You’ll see everyone from Internet stars like a <a href="http://twitter.com/scobleizer">@scobleizer</a>, <a href="http://twitter.com/garyvee">@garyvee</a>, <a href="http://twitter.com/ev">@ev</a>, <a href="http://twitter.com/briansolis">@briansolis</a>, <a href="http://twitter.com/jowyang">@jowyang</a> and <a href="http://twitter.com/pistachio">@pistachio</a>, to celebrities from other venues that have intersected with SXSW like <a href="http://twitter.com/aplusk">@aplusk</a>, <a href="http://twitter.com/neiltyson">@neiltyson</a>, <a href="http://twitter.com/kanyewest">@kanyewest</a>, <a href="http://twitter.com/pattonoswalt">@pattonoswalt</a>, <a href="http://twitter.com/shaq">@shaq</a> and <a href="http://twitter.com/sethmeyers">@sethmeyers</a>.  We are proud to see our own cofounder and CEO <a href="http://twitter.com/marshallk">@marshallk</a> at number 17—he's been a part of SXSW for years and it shows! Dig down a little further in the list and you'll find a lot of well-known and less-famous folks who have done some of the hard thinking and work to build today's digital culture. There are a few music and film folks represented, but we have focused our lens here on SXSW Interactive because music and film are two big, big communities of their own.</p>
+<h4>Explore the List on Silk</h4>
+<p>Little Bird is excited to collaborate with a new partner to give you <a href="http://sxsw-2014.silk.co/" target="_blank">rich ways to explore our list</a>. Silk is a powerful new platform for sharing collections about anything. We used Silk to highlight some interesting ways you can explore our collection of SXSW 2014 People, but you can also create your own views into our collection. <a href="http://www.silk.co/examples" target="_blank">Learn more about using Silk</a>.</p>
+<h4>Top 20 SXSW 2014 People</h4>
+<p>Click <a href="http://sxsw-2014.silk.co/explore/table/collection/person/column/rank/column/twitter%20profile/order/asc/rank/slice/0/500" target="_blank">Explore</a> to view our entire list on Silk.</p>
+<p><iframe style="height: 1250px; width: 600px; border: 0;" src="//sxsw-2014.silk.co/s/embed/table/collection/person/column/rank/column/twitter%20profile/order/asc/rank/slice/0/20" height="240" width="320"></iframe></p>
+<h3>Why So-and-So Is (Not) on the List</h3>
+<p>Little Bird doesn't decide who is on this list: you do! Or people just like you! Little Bird looks at a variety of social signals made by real humans and puts them together to deliver a dynamic snapshot of the community and conversations that attract the attention of SXSW insiders. There’s undoubtedly some very worthy people that belong on this list and aren’t on it—and maybe even some folks on the list that don’t make sense. Overall though, this list represents the SXSW people that other SXSW community members have raised to our collective attention. Want to be on the list? Engage authentically with SXSW community members to create your own trail of social signals and you will reap the benefits of connecting to this diverse and amazing collection of people, which is way more valuable than just being on a list.</p>
+<h3>How We Did It</h3>
+<p>We used Little Bird to find the insiders in the SXSW community and then surfaced just the people (businesses and organizations are another topic). To make sure the list reflected this year's topics, we added in all the <a href="http://www.sxsw.com/interactive/sessions/keynotes">keynote</a> and <a href="http://www.sxsw.com/interactive/sessions/featured-sessions">featured</a> speakers from SXSWi 2014. Then we sorted all these people by Little Bird's "Insider Score": a simple but strong signal showing who has earned the attention of their peers—in this case other SXSW insiders. The result: 500 very interesting personalities that have been or will be central to the SXSW conversation.</p>

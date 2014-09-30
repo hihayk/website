@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts  %}
+
+        
+<!-- POST -->
+<article class="post">
+  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  <div class="meta">
+    <ul>
+      <li class="date">{{ post.date | date_to_long_string }}</li>
+      <li class="user">By <a href="http://www.getlittlebird.com/author/marshallk/" title="Posts by Marshall Kirkpatrick" rel="author">Marshall Kirkpatrick</a></li>
+      <li class="postin">In <a href="http://www.getlittlebird.com/category/market-intelligence/" title="View all posts in Market Intelligence" rel="category tag">Market Intelligence</a></li>
+      <li class="comments"><span class="dsq-postid" rel="3176 http://www.getlittlebird.com/?p=3176">No Comments</span></li>
+    </ul>
+  </div>
+
+  
+  
+  <div class="content">
+    
+    {{ post.excerpt }}...
+
+
+  </div>
+  <div class="readmore">
+    <a href="{{ post.url }}" class="color-btn main-btn">Read More &raquo;</a>          </div>
+</article>  
+<!-- ./END POST -->
+{% endfor %}

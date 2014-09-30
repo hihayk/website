@@ -1,0 +1,383 @@
+$green-color: #b4c5b8;
+
+.marketing-section {
+    position: relative;
+    display: block;
+    width: 100%;
+    
+    &, * { @include bbox; }
+}
+
+.marketing-wrapper {
+    position: relative;
+    display: block;
+    width: 960px;
+    min-height: 480px;
+    
+    margin: 0 auto;
+    padding: $spacing-quad 0;
+    
+    z-index: 2;
+}
+
+.marketing-header {
+    @extend .header;
+    width: (960px / 3) * 2;
+    
+    color: mix($lb-dark-alt, $lb-dark);
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: none;
+    
+    .bold { font-weight: 700; }
+}
+
+.marketing-header-alt { @extend .header; font-size: 40px; font-weight: 500; text-transform: none; }
+
+.marketing-header-sub {
+    @extend .marketing-header;
+    margin-top: $spacing-half;
+    margin-bottom: $spacing-half;
+    color: $lb-orange;
+    font-size: 19px;
+    text-transform: none;
+}
+
+
+
+.marketing-cta {
+    padding-top: $spacing;
+    background: $lb-yellow;
+    @include background-image(linear-gradient(left, $lb-yellow 25%, mix(white, $lb-yellow, 90) 50%, $lb-yellow 75%)); 
+}
+
+.marketing-cta-screen {
+    @include box-shadow(white 0 0 128px);
+
+    border-bottom: 1px solid #888;
+    @include border-radius(3px);
+}
+
+.marketing-column {
+    float: left;
+    width: (960px / 3);
+    text-align: left;
+}
+
+.marketing-column-double { 
+    width: (960px /3) * 2; 
+
+    .marketing-column:nth-child(even) {
+        padding: $spacing-double * 1.5 $spacing-quad 0 $spacing-quad;
+        font-size: 18px;
+    }
+}
+
+.marketing-cta-icons {
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-left: -10px;
+    padding: 12px 0 0 4px;
+    z-index: 10;
+    
+    & > li {
+        float: left;
+        padding: $spacing;
+        margin-left: 6px;
+        
+        @include border-radius(4px);
+        
+        overflow: hidden;
+        
+        path { fill: $lb-yellow; }
+    }
+}
+
+.marketing-twitter    { background: #00aced; }
+.marketing-facebook   { background: #3b5998; }
+.marketing-linkedin   { background: #007bb6; }
+.marketing-youtube    { background: #bb0000; }
+.marketing-googleplus { background: #dd4b39; }
+.marketing-slideshare { background: #f69323; }
+
+
+.marketing-cta-icon {
+    float: left;
+    width: 100%;
+    min-height: 100%;
+
+    border: none;
+    @include border-radius(2px);
+}
+
+.marketing-cta-list {
+    list-style: outside square;
+    padding-left: $spacing;
+}
+
+.marketing-cta-item {
+    margin-bottom: $spacing * 1.5;
+    line-height: 1.3em;
+
+    font-weight: 300;
+    font-family: Din, arial, helvetica, sans-serif;
+}
+
+.marketing-signup {
+    position: relative;
+    display: block;
+    width: 100%;
+    
+    margin-top: -90px;
+    padding: $spacing-double;
+    
+    background: mix($lb-light-alt, white, 25);
+    border: 1px solid mix($lb-dark, $lb-light, 40);
+    border-bottom-color: $lb-dark-alt;
+    @include border-radius(4px);
+    
+    @include clearfix;
+    
+    text-align: left;
+    
+    label { font-family: arial, helvetica, sans-serif; }
+    
+    .hs-form-required {
+        color: $lb-orange-alt;
+    }
+    
+    .hs-input { @extend .input-text; }
+    
+    .hs-button { float: right; @extend .button; @extend .button-cta; }
+    
+    .field {
+        margin-bottom: $spacing-double;
+        
+        &:first-child { margin-top: $spacing-double; }
+    }
+}
+
+//// TESTIMONIALS
+
+.marketing-quotes {
+    margin-top: -68px; 
+    padding: $spacing-double 0 $spacing * 6 0;
+    background: $green-color;
+    border-top: 1px solid $lb-green-alt; 
+
+    @include background-image(linear-gradient($green-color, darken($green-color, 10))); 
+    
+    .marketing-header-alt { 
+        margin: $spacing-quad auto $spacing-double auto;
+        width: 960px;
+        
+        color: darken($lb-green-alt, 20); 
+    }
+}
+
+.marketing-quotes-container {
+    position: relative;
+    margin: 0 auto;
+    width: 960px;
+    height: 192px;
+    
+    overflow: hidden;
+}
+
+.marketing-quotes-list {
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    width: 10000%;
+    height: 172px;
+    
+    @include transition(0.5s left ease);
+}
+
+.marketing-quotes-item {
+    float: left;
+    width: 304px;
+    margin-right: 24px;
+    
+    font-family: arial, helvetica, sans-serif;
+    
+    background: mix($lb-light-alt, white, 25);
+    border: 1px solid mix($lb-dark, $lb-light, 40);
+    border-bottom-color: $lb-dark-alt;
+    @include border-radius(4px);
+    @include clearfix;
+}
+
+.marketing-quote-message {
+    float: left;
+    width: 100%;
+    height: 112px;
+//    margin-bottom: $spacing;
+    padding: $spacing;
+    
+    background: white;
+    border-bottom: 1px solid mix($lb-light-alt, white, 75);
+    
+    line-height: 1.3em;
+    font-size: 14px;
+}
+
+.marketing-quote-image {
+    float: left;
+    width: 48px;
+    height: 48px;
+    
+    margin: $spacing;
+    margin-right: 0;
+    
+    overflow: hidden;
+    
+    & > img {
+        width: 100%;
+    }
+}
+
+.marketing-quote-name {
+    float: left;
+    width: 216px;
+    margin-top: 20px;
+    margin-left: $spacing-half;
+    
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.marketing-quote-company {
+    @extend .marketing-quote-name;
+
+    margin-top: $spacing-fourth;
+    font-size: 14px;
+    font-weight: normal;
+    color: #999;
+}
+
+//product
+.marketing-product {
+    .marketing-wrapper { padding: $spacing * 5 0; }
+    
+    .marketing-header-alt { 
+        margin-bottom: $spacing-double;
+        color: $lb-dark; 
+    }
+}
+
+.marketing-product-item {
+    float: left;
+    width: 50%;
+    margin-bottom: $spacing-double * 1.5;
+    padding: $spacing-double;
+    
+    font-size: 18px;
+    
+    &:nth-child(2n+0) { padding-left: 0; }
+    &:nth-child(2n+1) { padding-right: 0; }
+    
+    p { 
+        margin-top: $spacing; 
+//        font-family: arial, helvetica, sans-serif;
+        line-height: 1.3em;
+        font-family: Din, arial, helvetica, sans-serif;
+        font-weight: 300;
+    
+    }
+}
+
+.marketing-product-item-header {
+    @extend .header;
+    color: $lb-dark;
+    font-size: 24px;
+    text-transform: none;
+}
+
+.marketing-product-image {
+    margin: $spacing 0;
+    @include clearfix;
+    @include border-radius(3px);
+    border: 1px solid #ddd;
+    border-bottom-color: #ccc;
+    
+    width: 456px;
+    height: 350px; 
+    
+    & > img { width: 456px; height: 350px; }
+
+}
+
+
+.marketing-media {    
+    background-color: mix($lb-light-alt, white);
+    border: 1px solid mix($lb-light, white);
+    border-width: 1px 0;
+    
+    .marketing-header-alt { color: mix($lb-dark, $lb-dark); font-size: 36px; }
+    
+    .marketing-wrapper { min-height: 0; }
+}
+
+.marketing-media-list {
+    @include clearfix;
+    margin: $spacing-quad 0 $spacing-double 0;
+}
+
+.marketing-media-item {
+    float: left;
+    max-width: 220px;
+    margin-left: $spacing-quad;
+    
+    &:first-child { margin-left: 0; }
+    
+    & > a { 
+        display: block;
+        height: 100%;
+        
+        text-align: center;
+        
+        & > img {
+            max-width: 224px;
+        }
+        
+    }
+} 
+
+
+//<section class="marketing-section marketing-media"><div class="marketing-wrapper">
+//    <h2 class="marketing-header-alt">Learn more about <span class="bold">Little Bird...</span></h2>
+//
+//    <ul class="marketing-media-list">
+//        <li class="marketing-media-item"><a href="http://blogs.wsj.com/venturecapital/2012/10/05/how-a-little-bird-told-mark-cuban-where-to-invest-his-money" target="_blank">
+//            <img src="assets/images/front-page/wsj.jpg" />
+//        </a></li>
+//
+//        <li class="marketing-media-item"><a href="http://www.wired.com/business/2012/10/a-robot-librarian-for-the-social-web/" target="_blank">
+//            <img src="assets/images/front-page/wired.jpg" />
+//        </a></li>
+//
+//        <li class="marketing-media-item"><a href="http://www.adweek.com/news/advertising-branding/little-bird-lands-1m-144251" target="_blank">
+//            <img src="assets/images/front-page/adweek.jpg" />
+//        </a></li>
+//
+//        <li class="marketing-media-item"><a href="http://www.fastcompany.com/3001937/would-you-pay-discover-social-influencers" target="_blank">
+//            <img src="assets/images/front-page/fast-company.jpg" />
+//        </a></li>
+//    </ul>
+//</div></section>
+//
+//
+//<footer class="footer">
+//    <ul class="footer-list">
+//        <li class="footer-item"><a href="http://littlebird.totemapp.com/company">Media</a></li>
+//        <li class="footer-item"><a href="http://getlittlebird.com/tour/">Tour</a></li>
+//        <li class="footer-item"><a href="http://getlittlebird.com/blog/">Blog</a></li>
+//        <li class="footer-item"><a href="http://getlittlebird.com/contact/">Contact Us</a></li>
+//        <li class="footer-item"><a href="http://getlittlebird.com/privacy/">Privacy</a></li>
+//        <li class="footer-item"><a href="http://getlittlebird.com/terms-of-service/">Terms</a></li>
+//        <li class="footer-item"><a href="http://getlittlebird.com/" title="Little Bird Home Page">Home</a></li>
+//    </ul>  
+//</footer>

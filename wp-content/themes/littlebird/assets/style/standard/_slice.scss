@@ -1,0 +1,49 @@
+.slice {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.slice-left,
+.slice-right {
+    float: left;
+    width: 50%;
+}
+
+.slice-left {
+    text-align: left;
+}
+
+.slice-right {
+    text-align: right;
+}
+
+.slice-clear { clear: both; }
+
+
+.slice-bigleft { 
+    .slice-left  { width: 70%; }
+    .slice-right { width: 30%; }
+}
+
+.slice-bigright { 
+    .slice-left  { width: 70%; }
+    .slice-right { width: 30%; }
+}
+
+
+.slice-padtop {
+    padding-top: $spacing;
+}
+
+
+.slice-header {
+    margin: 0 auto;
+    width: 960px;
+
+    padding: $spacing-double + 9
+             $spacing-double
+             $spacing-double
+             $spacing-double;
+             
+     @include clearfix;
+}

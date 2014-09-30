@@ -1,0 +1,46 @@
+---
+layout: page-sections
+status: publish
+published: true
+title: Contact
+author:
+  display_name: zeiber
+  login: zeiber
+  email: jason@getlittlebird.com
+  url: ''
+author_login: zeiber
+author_email: jason@getlittlebird.com
+wordpress_id: 2343
+wordpress_url: http://themes.webcreations907.com/ninezeroseven/demo-data/?post_type=page-sections&#038;p=5
+date: '2013-06-30 02:39:37 -0700'
+date_gmt: '2013-06-30 02:39:37 -0700'
+categories: []
+tags: []
+comments: []
+---
+<div class="contact-footer">
+[one_third]<br />
+[padding_box top="0" right="0"]<br />
+[nzs_heading heading="5"] Find us [/nzs_heading]<br />
+[social_links]<br />
+[/padding_box]<br />
+[/one_third]
+</div>
+<div class="contact-footer">
+[one_third]<br />
+[padding_box top="0" right="0"]<br />
+[nzs_heading heading="5"] Contact Info [/nzs_heading]<br />
+[contact_info name="THE NEST" phone="1-971-202-7114" address="506 SW 6th Ave, 2<sup>nd</sup> Floor<br />Portland OR 97204" email="info@getlittlebird.com"]<br />
+[/padding_box]<br />
+[/one_third]
+</div>
+<div class="contact-footer">
+<div style="margin-right:-25px;">
+[one_third]<br />
+[padding_box top="0" right="0"]<br />
+[nzs_heading heading="5"] <a href="/team">Meet the team / send us a note</a><br />
+[/nzs_heading]<br />
+[/padding_box]<br />
+[/one_third]
+</div>
+</div>

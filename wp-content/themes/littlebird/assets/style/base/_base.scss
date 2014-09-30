@@ -1,0 +1,65 @@
+cite { font-style: italic; font-weight: 500; }
+hr       { display: none; border: none; height: 1px; background: #999; margin: 6px 0; }
+hr.hor-rule { display: block; width: 100%; height: 1px; background: #999; margin: 12px 0; }
+hr.hor-rule-light { display: block; width: 100%; height: 1px; background: #ccc; margin: 12px 0; }
+
+
+em { font-style: normal; font-weight: bold; font-weight: 700; }
+
+// DEFAULTS
+.inline-fix { font-size: 0; }
+.inline { display: inline-block; vertical-align: middle; }
+.block { display: block; }
+
+.clear { clear: both; }
+.left { float: left; }
+.right { float: right; }
+.nofloat { float: none; }
+.clearfix { @include clearfix; }
+
+.absolute { position: absolute; }
+.relative { position: relative; }
+
+.italic { font-style: italic; }
+.bold { font-weight: bold; font-weight: 700; }
+
+.disabled { pointer-events: none; }
+
+.text-left   { text-align: left; }
+.text-right  { text-align: right; }
+.text-center { text-align: center; }
+
+.nopadding { padding: 0; }
+.nomargin { margin: 0; }
+
+.pullmargin-top { margin-top: -1 * $spacing; }
+
+.margin-top { margin-top: $spacing; }
+.margin-left { margin-left: $spacing; }
+.margin-right { margin-right: $spacing; }
+.margin-bottom { margin-bottom: $spacing; }
+
+.margin-top-double { margin-top: $spacing-double; }
+.margin-bottom-double { margin-bottom: $spacing-double; }
+
+.padding-top { padding-top: $spacing; }
+.padding-left { padding-left: $spacing; }
+.padding-right { padding-right: $spacing; }
+.padding-bottom { padding-bottom: $spacing; }
+
+.padding-top-double { padding-top: $spacing-double; }
+.padding-bottom-double { padding-bottom: $spacing-double; }
+
+.error { color: darken(red, 15); }
+
+// little bird theme classes for misc 
+// coloring without special layout classes
+
+.lb-orange { color: $lb-orange; }
+.lb-yellow { color: $lb-yellow; }
+.lb-green { color: $lb-green; }
+.lb-light { color: $lb-light; }
+
+
+
+
